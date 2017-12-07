@@ -1,0 +1,2651 @@
+[
+   {
+         "formatted_address" : "Jalan Raya Muchtar No. 22, Sawangan Baru, Sawangan, Kota Depok, Jawa Barat 16511, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4017154,
+               "lng" : 106.7701659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.401458549999999,
+                  "lng" : 106.771551
+               },
+               "southwest" : {
+                  "lat" : -6.402485950000001,
+                  "lng" : 106.7697042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ff814677a1d7d4e2f84d292f9e37c1741546ee6",
+         "name" : "RS Permata Depok",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106799098551023472870/photos\"\u003eAndi tanas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKuJ6yh-rypOLshhPzWoWOkUU13-oBLZxD9vY4r2hNudUv0FJEeOThViiqJZjcgouK3li1qJXmWzCystnPfWTssiXlrNNIYGlfaijEVPe0quj9OAmDpG81KUeb8mIcKMIoDxjlYGusyCpqUELjSVpASM06jVXb6lh4XRia3px2LEhCM_tIDwViuFZxcZQb5jCppGhSfEmPWxouydEWWjdBGojxJ6QEsiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB3Mgi9_oaS4RVCm1X3vNPQ4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA5CCK8aum1xGKGsudFmDb9I934iXTSavXRtfblydom5IhWzfIbMCOCZZXwTK-M-VV9oVkstQM_IQJ_zazc8dVlV4oSxlkQDScEKCl_bnEcwWZrHTJhgJoJooEVlkLYot2EhAZbhiP9pfJIHV_QBsh9L0IGhSg9GhQJJazy1SP0Gng6dA6HglnpQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Muchtar No. 99, Sawangan Baru, Sawangan, Kota Depok, Jawa Barat, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.403867300000001,
+               "lng" : 106.7584929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "Rsud. Depok",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Bogor KM. 36, Sukamaju, Sukmajaya, Sukamaju, Cilodong, Kota Depok, Jawa Barat 16415, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4087217,
+               "lng" : 106.8617402
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "2402daef89e55040524d1bb4a12b1ec69c74447e",
+         "name" : "RS Simpangan Depok",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101230265962075342205/photos\"\u003eHari Fitriyansyah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKZ1gvQoxsFtceIhNceOGOvmo3vY27riV9MNh4qL8LgCc7QUzoEynqi22TcneRN_jGaHo0RoFgRshCrL-oztvbGGrNOMidALsOtCVArSJVyYUvr10RtyyFJedMjH_N-pf-HhU0JWl6WYdhWyIHGQV94uX6UC61OXXjAFQdam1McBEhBjEgTlIQjX0uHkTmmGX93iGhQx_FQG3HZgkeKcKCLEhv0vd9TM1g",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJIxzP_KbraS4RQlFTVyPd4Y0",
+         "rating" : 4,
+         "reference" : "CmRSAAAA8lCV9XG0dBa9AT_LxuGnUT2nPpZHcpRApzSDJHpqtGCD8gcU6qjLFdCXBtl7cX8s2OGxJAteyBJsynjE9yPfz8xY4fbn-KxXmzjEw-XvaIcYiJHOe5ZHSuIshhod1xTNEhC7IIjXd0cZHBTWCVkfnCxTGhQ2TbF9i4aQdvikadOayILSOejThg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Margonda Raya, Pancoran Mas, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16431, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.394436999999999,
+               "lng" : 106.8241738
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.392981099999999,
+                  "lng" : 106.8243434
+               },
+               "southwest" : {
+                  "lat" : -6.3949223,
+                  "lng" : 106.823665
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7fa3657ef350471b86eacb684a53e27583bb723e",
+         "name" : "Rumah Sakit Mitra Keluarga",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117768055115362494078/photos\"\u003eJohn Leirissa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF-a3RiToqRNCEcOlno4SkuKsJNLoTodEbZAGfVzsfPD92408SCVIP7JkhwgCCqmV6NYjCR6byBqDi0wsUlHfPsigKoHZ--D9RmuHssKQVK2gVer0mjulzPM-W89h1cAUWZTGdY6hSVxuCvtqIodaMlfkfLYoCkYBkZu_tw8RSkyEhA16Pg9EQ9E_jRO-WTS5-wfGhS1_8ee-vnQhbXFC22Q9gfKFzCCLw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJN16afOTraS4RIMBT4Lw4xCU",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAA5wnnc4xf9jSc8AX3HrXsSWDLKn3M6noo6HqLNbinB9WqGS-0LPpVk1CYJ4KOD1_tG9aydK28evNtq4-iVtNzS5o1yY5q9qQ97aHPlle7bIyPR-O81_6cFq-YaXilvufCEhDrbEBiALKS7t2FPj4ky2GYGhSF1ltkwItNXuQMyUDuuHZvDu9ylQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan KH. M. Usman No. 168, Kukusan, Beji, Kukusan, Beji, Kota Depok, Jawa Barat 16425, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.370728999999999,
+               "lng" : 106.8134289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.37071225,
+                  "lng" : 106.81356635
+               },
+               "southwest" : {
+                  "lat" : -6.370779249999999,
+                  "lng" : 106.81301655
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "c0168d17e283b81a6ca7d07c2c453530d15e4e92",
+         "name" : "RS Grha Permata Ibu",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1199,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103792701736133044559/photos\"\u003eRS. Graha Permata Ibu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJnBHp4N-Vd3Kj2Vbk0Gt_BG4TIh5eWIIlBE_96tcmAw491fEShOLEsCIEHXaenLP-CH1pU0alu2-2du0wQo3AroXpCeMg62OUQDqtheByfytM6hrzlNUbTQU0zGde9fXcSV0YTNf0KdpA0JbfG04YKy9YWj8hUj_0wrQOp03zjSEhBdCCn583T9V2Uytft3EXCcGhTd4dLnKw8J6bxo4YQtWZuun_vnvQ",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJK-i_GKbuaS4R7OgYAVM4qHI",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAA53v_1N-t5bs6wg1J8IeMb5jlDukMjPN-AaAMVYVCle_NqOVthglB0UbEUswsA4XIJG0pR3UF8I4EW0yMOo4Py6uDKB87OUtVZIJNmRGEpYR4Ucb00Wx_-yxk8D22sT23EhBXPzM2pRh_2Trbp0tUU1JpGhQ8n-hszNXBJ5S6P3g6tKMYILRurA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Sawangan, Pancoran Mas, Kota Depok, Jawa Barat 16436, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.397492899999999,
+               "lng" : 106.8062965
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.3970156,
+                  "lng" : 106.806355
+               },
+               "southwest" : {
+                  "lat" : -6.397651999999998,
+                  "lng" : 106.806277
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f60c58fd7a3d931547fa6ebe3eb98b92a9784998",
+         "name" : "Rumah Sakit Umum Bhakti Yudha",
+         "photos" : [
+            {
+               "height" : 1186,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113998858914595807013/photos\"\u003eChay Shemi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF_fznGz58G-XMcM2hRgkEFSsMYE84mP-OFNuGZ6WaaavKjHWfXzdTjOpuBRNBADuT4zGHpryxrqMpB34oT-wVAVVKEIiAxD4WAwIEs_f-3qaMHiJ6-ovdakiC6CpEcihINbSQXfMgTsvxU1lOmM4ohx0po6QtbJknfFBqBK7kRPEhA7_Uh3Ose22BQc79O_rMGhGhRBG-wozCHBaTGmn4hnSb5WXY-yRg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJh94kZOfraS4Rr8fV-3u1EUE",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAsLllgMKjqMaynmscoY4aUz5GERNeDIXyeVDlG8mBd0YGSWEA7_LUCTKtwgvY_NcvH611XzjvbLVIidPlhvfnGaulY7-BUpKQt3sNeNhJog_AxN_HI4dp7tEcBzrY9NYkEhBZnIdHOwtns5FP1lPOQcMbGhTkI-2zvM445HUmpY8jj5T_N9Kicg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raden Saleh No.42, Sukmajaya, Kota Depok, Jawa Barat 16412, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.408283200000001,
+               "lng" : 106.8408981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.408259650000002,
+                  "lng" : 106.8411886
+               },
+               "southwest" : {
+                  "lat" : -6.408353849999997,
+                  "lng" : 106.8400266
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "2aa46c4d25c37188a983b23446dc28a3b9857cdb",
+         "name" : "RS. Hasanah Graha Afiah",
+         "photos" : [
+            {
+               "height" : 1458,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115561139266390098328/photos\"\u003enofri ep\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACKGKpuAtE77IfGJbEvjNb4aCq-y-HLhh7LtWEA_MKwtCpIMYEcM5YnFUFte6MzIeeYiY3zHYsPWRi2Hvl3v0RRn24wpCxayTuxj7RgKh4Yb-ACY3VX-9AJGz9C--Hfpb-ZwDNmecp04VZhxK2Q3AkLvzHP00upVE_py1vkVrSgaEhAOHBOk9f32MGQQNU_4IemiGhRTl8hy3Tk0Rq8t6hWMSKZC400fmA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ5YpbecfraS4RNZA0iYwcshY",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAA5gLBStapAS28oRiLFkCfWYhZcR7-CWrHvSMt84LgvqJXzSeTHqoVpTwBPaAcD26hu5SM9pZbDT4CxoVlX5QpZhzcALcYngM9hbthUJPBYHxTFmu5w7Nx0JMl9Cq38QdkEhDrkO1qF-e81ttrFbZ05JnSGhRjZt0atZiGGVIXhEBgZTKI3vsx-A",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Maribaya, No.1, Puri Cinere, Pangkalan Jati, Cinere, Kota Depok, Jawa Barat 16514, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.321899600000001,
+               "lng" : 106.7826448
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.32147575,
+                  "lng" : 106.7835813
+               },
+               "southwest" : {
+                  "lat" : -6.322349949999999,
+                  "lng" : 106.7814433
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7553554f6ad1d18a66fe8487f7e98203757ec99b",
+         "name" : "Rumah Sakit Puri Cinere",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104658820110420844048/photos\"\u003eSulis Setiadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANatj7bxmm1jBL1xs9ZVvORO56Ta-KYJCpQXOWKI29ArnSmIISEulIOx4bjDWcsuryI8PBSFweAyxv-zIVXtvb-eEraitFS9Jf0mCsPlTXj0FPxm51NQc0EJ0IXtNyI-OIfpwxpr9Eb0iuWDyE0bcDUiH4wIcrZEtLBArRPF30YcEhD5CLgoa4PRwf1K_Nqv-5y1GhQe84v_q3R1rvkOFLjUKF8gxmyCPg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJHWe8DkjuaS4RQi0gDy8dkow",
+         "rating" : 4,
+         "reference" : "CmRSAAAAuTI2SFxNDHLJg4KVR7kcMtTH_bvlS-Xm8d9xdVLxPyPsB9gMi3HM8WiUf7M3X9DeIexL65P9lp_Iaox671iZMjb2QTUAY5iz2pk6qt8USFIBSGZgerLJA-IJyCQ5L4-ZEhAOLTwBr5DtdV9G-MClFh69GhQacf9Gx4jphP_gKWIlqIwPqgRqBg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Margonda Raya No. 28, Pondok Cina, Beji, Pd. Cina, Beji, Kota Depok, Jawa Barat 16424, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3653017,
+               "lng" : 106.8342797
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "828ee18511100a0f7da867f15c372b6c4c06c413",
+         "name" : "RS Bunda Margonda",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3104,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111834837977692362796/photos\"\u003eAzza Habibullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA5FAHmxN-SDvLnV1YTeSSRToguvGKVLvifuXd7I0ccaG9vokUsZJFnv7Umr871l-Fhj3lBII5mab-R7sPj_UPy3zneO5IiwcZH9A873FNCHdsJw7PifYH0u4DIgJB_Lurv6GCjz2CVfdIfF1Ui57jooz2Geve8XnNf1xEBsLmkBEhBxBMVGB8HpTwX-NtamqJzPGhQLTUTA_aUp5Fjnk6cb3e50BB3_8Q",
+               "width" : 4192
+            }
+         ],
+         "place_id" : "ChIJ10gxXxbsaS4Rx2qErP81rVk",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAA3sH0VngW4oXdFOUi1uWehCdr5ShSvaJ5enEqP8csixYc4CJeDoehwW5grCrZXF9dbfHStVnhdYoc504XzgyVzM0J3_RvLK5paI7WhBXPybyc_B8PJDyGngDe6nKCVEfDEhCS8Q-A4JWychBgQbmjiCzVGhRUZiQ9WUNmhARZeklJnb66BH2dHw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Siliwangi No. 50, Pancoran MAS, Kota Depok, Jawa Barat 16431, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3996727,
+               "lng" : 106.8250713
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "b34de85cc795e71dc8762ca8e77d725e69c06f26",
+         "name" : "Hermina Hospital In Depok",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103549551295803022204/photos\"\u003eSofan Arif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHyraD_rsocAfQ-wD--QB2YNMSMAImA2jsMVqTCEMwlZ5AhBSwI8LsfSx3zKRhE4KBjU48Z3ZkuWneNmdX3qUmOaaqktM2GynTxLJ696FeD9ga9JjLJS9RqrRKczoJtZ2tk_mEjtXKO3p9xIRhNclytXZ3qu-8QxFaxb901F9VAMEhC_ya3BLNfvvTXhQlcKOBMIGhTR7Ao3IxaRTJfIXZhqyWJz9G2mlg",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJKcNVOefraS4RXgIgeiffK08",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAy8FqIvX1nOoq-8HEP-RVrP7cusirKXhSLyySfZgEYH5ZoLdNnPDI4adS3gBAN5UIGqBTL_YtosOiz8UmKKlCsvEO8FtFdYh7EaWRLE7vHBoh1zHFKr--BChANgN8bKNUEhDgrn2boYlLNurV8d2ZEVLGGhS8RlZTZbEov4a11wHo44cLxpCupA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Bogor Km. 29, Cimanggis, RW.5, Mekarsari, Cimanggis, Kota Depok, Jawa Barat 16452, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.356433199999999,
+               "lng" : 106.8603608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.35630615,
+                  "lng" : 106.8607798
+               },
+               "southwest" : {
+                  "lat" : -6.356475549999998,
+                  "lng" : 106.8591038
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6eef2eff0e0cbf0ae1027a5dc7d1c6e4e31d3aae",
+         "name" : "Rumah Sakit Tugu Ibu",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105818804002837786071/photos\"\u003eAkhmad Fauzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGk-Oq3X5dliNu5PzRoJy3CB9LAOtd1H_LDy-pgZoNA7e28w0KccfIts25S_cCA35MAHmgTGrgazpQf5nEPWvCGyk6RWZI-hpbkvySeK8tb78OI3revEvcsK4zU3KOkwP2XBKXYM5Zon3--tWUMktpu7LAVb8ydJdKLeAOn1eEtKEhBTo5Znt7jgJUOlSNrbj5DWGhRcgMpAiooMFcbFzc4iYVAH5A3ctg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJhwYifazraS4RnJcAyKACfKY",
+         "rating" : 4,
+         "reference" : "CmRSAAAAuTkJ66zRM56bJ26Ammg2yWeNuWMyecuPlhHn4q39Vu6wtkO2OpRm5nmaFS-KODCbt3G4J_0eBaZW6rkFkp6uFxWTy-YmwDraR26wi6Dsz59VPTJldxiRGdAQPrO_9MftEhACWXiXAhGdW1FG-hvuzDtKGhSuR-_6UQdiXgjxrwa0ZxQIvn-Z5g",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Bogor KM. 33, Cisalak, Cimanggis, Cisalak, Sukmajaya, Kota Depok, Jawa Barat 16416, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3907995,
+               "lng" : 106.8655346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.390657149999998,
+                  "lng" : 106.8663104
+               },
+               "southwest" : {
+                  "lat" : -6.39084695,
+                  "lng" : 106.865276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d37bce0cb1d11222b62a8e2904bf26fd73431ab1",
+         "name" : "RS Sentra Medika Cisalak",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108692036561704563002/photos\"\u003erizki.s. kurniawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHLhRFm4793_QnSntC6OqNWoODcvftvHOcTvkkcj8cf0lhi-K0GCsz0Qvx-2gRyGGvb0Sktp8-ycoxFKDfgGNeSJ7kd_ZpCqHqvQqT6e0dbVE_wppkAcqerYv7KZWUlAOg5FwRzdqheZl2VeEld28IUQT0xyxLbbHsHlqqJFP0yhEhCk3Aj8S4K5dQF4l1z6vvNFGhSj9Wr3cLqzaEI3dYNF773LKGWjoQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJpSMn5XfraS4RkTpVxFgHwH0",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAiCOq0XDNSPL-wbU2c5PKE-Y2Lfv7sgG53Sz4JCrvOv3Jp-wzGYFENgMCCRAqKDtZpEMDwckfdPEFi1a4ANEoLDW-ViOhUkpwW6zH1gKMrzhgEOAdh7JNQbrqAtnU7se9EhByl2pn9zFlQEK6lOhthfOKGhRqrL0mPRXMlZn-U4Z3bg-1Vf8-og",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Pemuda No. 10, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16431, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.402748899999999,
+               "lng" : 106.8199718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.40230475,
+                  "lng" : 106.81999095
+               },
+               "southwest" : {
+                  "lat" : -6.402896949999999,
+                  "lng" : 106.81991435
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "dc56347e88a062fb6e7c678c9c91277910720d85",
+         "name" : "Rumah Sakit Harapan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJlcAIyN_raS4RhPuZO5486aI",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAnr5e_KiYqRJKJUXwm5KfIAgKfbBoIe0jeqXEkIa0Id9tKl6yu0cJRewxuCmIhxAT6xWKYVwWkahUJDLdeCXhOJambNjRZkqyLW1YQ8rSIBlz_Hm5oQQGCLXcLbnMb2VdEhBzfJFfRLnMOfggL5jMMm4tGhRQoyb3wgP7ywmcNOVxsHlGscAcZg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Komjen. Pol. M. Yasin, Pasir Gunung Selatan, Cimanggis, Kota Depok, Jawa Barat 16451, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.354821400000001,
+               "lng" : 106.8493159
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "2bfca9cb2559079fc97d1c508676798cc6f33bbc",
+         "name" : "Rumah Sakit Bhayangkara Brimob",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 514,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100252780347479805638/photos\"\u003esigit sutanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHGnL3Es1rAYGFX6ZBzm4i1CG67lvlHPPsnwlRsJY4IZmyeHmwgL0OaVNuUJfuksePys8iozDwpNO5Qj0Clfk-qlbVGTm0T7NnT1nMQpkvVsb41ugt17E1t4LCEGYoQ0F47IWHtATpcSKGCONMfmp_BPp7LQBmYSa9xRj3pqDjAbEhB0bE_Ssw3z_4rxFJOfFwu_GhSbswEIazThAaK7qvrIYG4pYdP_lw",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJu_nIN0PsaS4RaFLaTw6rlT0",
+         "rating" : 3.5,
+         "reference" : "CmRRAAAA9jR4knhM1JR7pzJH-XNLdc-seN5XdwGTxorMsvGhqtNqDYVecvGUX1cytMBmhP7IAa8ltG5KcwYRenR0MItwCUKEsWMcdaE6H4HguP-QT2g5F0t3zcCvdt1TIgPjcfo8EhCg4DtX5PDCCqVSDvvI0i-LGhR2g7hI1ga0ZsHXA5FfD6707p2heQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Alternative Cibubur KM. 1, Harjamukti, Cimanggis, Harjamukti, Cimanggis, Kota Depok, Jawa Barat 16454, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.376695199999999,
+               "lng" : 106.9018939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.37572125,
+                  "lng" : 106.90191185
+               },
+               "southwest" : {
+                  "lat" : -6.377019849999999,
+                  "lng" : 106.90186045
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "2a1591196c71e6d5af684b5a989e7ce13d9c8bf4",
+         "name" : "Rumah Sakit Meilia",
+         "photos" : [
+            {
+               "height" : 3064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100829433439293043846/photos\"\u003eTamtomo Daniswara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABcZg_XZlYV00R90xPBO3JkcNxj1padFYAPjpig7bsXY2Jb5Yg8FrMsw-uM3MOway1XKYhg8OaUovAc87QLBgcyeSoP4TiTCZjRGxixjsuxLT991E1D4CGk-sYOKzk22klK-y8jJ_xwy0oALuSl-6HI4u6RE0pKPsPWzsDAQwt8QEhCGPiSTftNUlvzk6HCOkxFOGhS6M5Im19pP7jfnhL-N6EMrRko_yA",
+               "width" : 5836
+            }
+         ],
+         "place_id" : "ChIJtUYZTKjsaS4RovnMWZTx8eE",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAp6j3HXMDwFyfE0i9xne6xkvOCsfErtRImnT802bXG6wK5I5mTxelHRG-lEKPbMtDoILllYkyRmfCXT10GJ52C8DCTc_LWeUGZ5AzJw650tKNZiOAUGQAtHmgQ-gAYzYzEhCnOGtX5WXOWyCjvCj3yDNMGhRb_-5DkqnadwB2o5VCgBYIv7IjJg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Pondok Cina, Beji, Depok City, West Java 16424, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3725033,
+               "lng" : 106.8296153
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "b39014bc51aeb676672fef0c50025d42265c8514",
+         "name" : "Rumah Sakit Universitas Indonesia",
+         "place_id" : "ChIJC6pWfQXsaS4RsrbVKTU9SXk",
+         "reference" : "CmRRAAAALUWrcnxIjBpu2tTdvnPEh5qn4pPMI3Cs7a6pxa43ggobsJR33oK3jsfMf-vX2tFs35at3XCDD9IJN7w6jTsFkBaY5w76F7xVP5XJC8U1KfLRQ9b549Ldfu2vFIEukmOcEhC2Q11R1Y0Nr2VMd5KQdoi_GhT6EWKWbFgPjYx-Cumkl3z2GxfIEw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Bogor KM. 31 No. 23, Cimanggis, Tugu, Cimanggis, Kota Depok, Jawa Barat 16951, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.371662,
+               "lng" : 106.8613737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.371492500000001,
+                  "lng" : 106.8616668
+               },
+               "southwest" : {
+                  "lat" : -6.371718499999999,
+                  "lng" : 106.861276
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "0259c95234d887979ce53958c4a2f592a048513a",
+         "name" : "Rsia. Tumbuh Kembang",
+         "photos" : [
+            {
+               "height" : 1170,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118431404374469356079/photos\"\u003eRSIA Tumbuh Kembang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAF7lPlkP2YJd4AO-qbdp5MAa_bpKGgiAaWstA64Zp97nuJZavTXndmi9U3SjM9ZcBvibQGdeWHMgavASS8v1C6ruHnUAo0KMxvgHK0DYgFYCWaXsBaEKmULQVdWHkIF-5AQzqvk6LKss7tUtgfIKRxoJK2nP_LhONo-JZ3lzy8iKEhAc1dZAbEpgNBlvNP4Do0XFGhT2AfEexs_grPrWeYHeNkjhXGi65w",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJm3_W-HzsaS4RfKKmxj1n5d4",
+         "rating" : 2.8,
+         "reference" : "CmRSAAAA8Y_wUXkeKwHFnOhkB25rm0l-ukRfpW_8VfVA_deatUgi-Z1nv2Xeo9SduzvGtSoklA4a4lGydHs8WNbeTas7QOTfMmbIaynmDI9VtyGyqumRrbAizILqqb9Db4RW1fLcEhAyHcN-8Ly1XJrSUR3cpa46GhQ96Sv6YaZVwI0DGoF8pVnKS3dLwg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Bogor, Mekarsari, Cimanggis, Kota Depok, Jawa Barat 16451, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.368403499999999,
+               "lng" : 106.8603635
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.36837875,
+                  "lng" : 106.86045085
+               },
+               "southwest" : {
+                  "lat" : -6.36847775,
+                  "lng" : 106.86010145
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "5e43057bd4c84a04fbda2c4a4430d98b81a33d2f",
+         "name" : "RSIA Setya Bhakti",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJtdqmQWPsaS4RIblHAaWebZU",
+         "reference" : "CmRSAAAAoWh9-9v81evOlsW9v2r1T7Ngu61Zd0-C_3okma8ctKNXiw77o8as7bNFQt5ITdZgfpdLUvb81MZMdv_E_DKi59CN2jg7NgwXGZ5zSs8EAc6aecVPqGfuFSum0-UZtq-jEhDtAyqLyYgzFmURcrB4gazIGhR7_v0uYn-niTbY4ojzX8PPFRQJiA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Kalimulya No. 68, Cilodong, Kalimulya, Cilodong, Kota Depok, Jawa Barat 16412, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.427268799999999,
+               "lng" : 106.8232763
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.427212899999999,
+                  "lng" : 106.8234875
+               },
+               "southwest" : {
+                  "lat" : -6.4274365,
+                  "lng" : 106.8226427
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "53a048232c058d9fddeb1e73b48ce1c796c0548b",
+         "name" : "RS Citra Medika",
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104147504940678237915/photos\"\u003eNa&#39;Sa Bua United Kedungwringin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALC-XsxSsNYnw25_0_bY3jkU0MOMP0JefjsS0WDfc7ByGKrf5OiDETRcxck10jC-GF2bYrW81cHqo7ih7wFuMqwAoK0iMyjZsjuELEknDE_sbdKPiK0wih6uOm0CfZj00Pc0sWAxZf-E7KY2D2ZNcxixqU05AWVuhQ6rPWp5YVgDEhCRdTwXohnylaBOEtacM_SRGhQzvLldRllr3XHtubsODYRFFK8Hjg",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJeRjilyjqaS4RvJSzoyAZxEw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAoWEcK9dbxXti0EYILkJbQHM3sYFrB0Aq380v044elv0iQkkppn30pIWd6w89kp2J215b9eHNBNvewt5yUfZHVqbDJOiJ17fADa6HH4VpcMtUHAlJdvSZ6t-iqTp5buoOEhDogW4ecLDmbKEe2wPAwJS8GhTKdIyLoGnvo2WFAXKrJWr-hlCcjw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Meruyung No.20, Rangkapan Jaya Baru, Pancoran MAS, Kota Depok, Jawa Barat 16434, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3938826,
+               "lng" : 106.7715073
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.39376655,
+                  "lng" : 106.77154775
+               },
+               "southwest" : {
+                  "lat" : -6.394230749999998,
+                  "lng" : 106.77138595
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "b85b682249a8c845d89d466d805b71ed5728ae84",
+         "name" : "RSIA As-syifa Medical Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102343532611906621293/photos\"\u003eOdeyn Fakhru\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIHQIoa9nWz98Kq_8LUtZ2ytPwWiJnGfSenloRmZDIGj6eUYdB1WL2SjPWWdmrod8h8IOLYEqwYc7QKJ0k1zv5AzqaqiywsNQtDJ9MH9HR2ekKJdLvbolt-6e7vadovQ4L4QmYqI0g4G_AdKlxwbWVXvbeY8cJTUEFhhnkU5h05gEhA5iB98N0kJXq4Ux4-eDQnDGhTxqH1CZXQMYl45Qg3OsGGqDLw-MA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ1YmQ8SfpaS4RHARr6ie1alc",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAsNKMEELqR0XPmxTHRLcHEanI2RCDEDXhbSnXMLAVOCf9gmwDrhUZIMwYPXI0NloQaP5E0X3E2vEexIbfU_Cpts4aX2kHoFCxr-sA_sxjw_CWJtn9vbmu5jmUAG09Mf4rEhAvgKJxVt2xAP2PCaqjvZFRGhSqnjAf2IHOdHUH7IODZTeIh8G_TQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Pemuda No.2, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16431, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.402838999999999,
+               "lng" : 106.8191899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.402631250000001,
+                  "lng" : 106.81922595
+               },
+               "southwest" : {
+                  "lat" : -6.402908249999999,
+                  "lng" : 106.81908175
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3ab889615e5a6602429e77140c68c4aea5af05e9",
+         "name" : "Puskesmas Pancoran Mas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIkWSnP_cR-lAhs3GDJ8efuFCV_IHtj6L0HUfukmhhemgo9UeZtybh55AVXRe8eyQq0Eo1XBUHK2s-weI2bFx4t7grnIZWH1N7YaHDaO-63eWnbSs0_ZcOo7yTZdLTz98qJT2-kP5m_sBHtzTomrmZKt6D4k5pZUbYEIm-wNDL0REhD9sNxyEXOMNlE1U3u-m91BGhT8EjVdofAOEsX34bmAR7g8xgRNGg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJwRxB69_raS4R9djrbYHtTYA",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAQ2CthhK6lOUxkmVxPyjo2_dBqYDI56O2ewD-cngN4GtP8boWz4HV42Jcspzs4Ym0ZrAvQc6w7UNHon9-T92JZK4JH6hzl5_JFkbsGDA8A89NtUoZFJCOhhHF5vcOxVeyEhAjmEtgAHC-uUlwrmJjrdiHGhTtGY8ulUb8KTts94hzPBe0MqCouA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Cinere Raya No.30, Cinere, Kota Depok, Jawa Barat 16514, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3410687,
+               "lng" : 106.78021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.340825549999999,
+                  "lng" : 106.78048075
+               },
+               "southwest" : {
+                  "lat" : -6.34114975,
+                  "lng" : 106.77939775
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f76321defcca8ac85d0b52df287b0e252b9cc3f3",
+         "name" : "Puskesmas Cinere",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114612846230203449601/photos\"\u003eBagoes Wibowo Saroso\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAqRE1Oxci7L5IMGCuBmWRUPUoXCMDJSDPjX3rueBtpEMhB2iAM3pxZznySty7kmKE57V39nHA-A64tBptkTpjCx-j5rQTTTJAKlZQapToHR3Oi0dRKyDFcJuUmMgt10Ku-YO6yazsItsBEvVXK3Zr70JDjpfnJQgRciakQo_RAyEhDuFxKHsK82sSAL2k2omFLFGhRYPCIEPoXe4GgHWsg20k6-3bfQew",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJLSif0FfuaS4RHfLNiEPpYP0",
+         "rating" : 4,
+         "reference" : "CmRSAAAArYplQ0OMPbdvtfpX1rEqg1RZQkKxRtYCd7X2DdRTljspxEiyAlzxr7Zg0eKA7XOEhW9BMOLBjKpkR0tfko00rtjpMmPDDjzTGBeB1wTu2SnAz4dW3Cy2ZwIHV_C8ASNlEhDx867pjeVkQvAnNNlfrkRRGhT8OCoghZ_FCVkimg5etH9dHgeSpg",
+         "types" : [ "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Kalimulya, Jatimulya, Cilodong, Kota Depok, Jawa Barat 16413, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.445616800000001,
+               "lng" : 106.825189
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.445581900000002,
+                  "lng" : 106.82520725
+               },
+               "southwest" : {
+                  "lat" : -6.445699099999998,
+                  "lng" : 106.82514305
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c2ef5d85cbdb71187930ce6e3e3dabb7c2e2f425",
+         "name" : "Puskesmas Kalimulya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJV1q6vBnqaS4RmJrUygfNyVU",
+         "reference" : "CmRRAAAAaWJyyBMqDb3THl5y4FUVKjCnQIUD9b4Krp_qiTmcZkhxpwTxmQ9RHFHeNLscbvJExyrgQYiyDl2PdaMEBw6aMkDAAdKj3YMhIRUt1aIjiajlQYls9OtzbO-Z-6KEjDv7EhDH9w2uoJQtmFXSH1kQKnRSGhQye8COLfR6uZOCeTbfFVJuExhpbg",
+         "types" : [ "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Bambon Raya No. 7B, Beji Timur, Beji, Beji Tim., Beji, Kota Depok, Jawa Barat 16422, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.376030099999999,
+               "lng" : 106.8217958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.375976049999999,
+                  "lng" : 106.821861
+               },
+               "southwest" : {
+                  "lat" : -6.376056649999999,
+                  "lng" : 106.8217638
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "eca3a6cb99c353fc29e78ec9006f48f15233e5aa",
+         "name" : "UPT Puskesmas Kec. Beji",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109185309788374557431/photos\"\u003eHendy Alex Roesli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOQJpVsxbEyS_QpQ3sne5kFYjZ_f44d-AIPW3V0AqJxi3fggnCY6-noD9bp1i--vxO2xw5L8oRe8oVPQS39hBH553E8fsey59Uv_KeXsFKHqq-Gb-AYCWEoqgs61GSfnCcykROoEbUFu9si-yumj3gSSBJhoNY1JbV9xInfwTuEjEhCHfaoGlBrzpDnpFeASgEYwGhQWkIkwf0PXO7CAfLhSoUZIrR9bnw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJH3gt6wPsaS4RV7llJc_KNcs",
+         "rating" : 4,
+         "reference" : "CmRSAAAA__sJKdFOzSkfDUHwVZf-u65PKfXpVX-eXp1X9ES5QF9GVnK5Y5JNk54hfeX55HAZGqMk0dNAWCznkw0nMkEREyrj3sbF_xz8Q9skuVc87aSMkQdd1WJogeSteOBzwMoEEhDxYCgBf3xv0MLoTsT17qkOGhSrH4O5QY7gAPl3YKeDmK_uEdK0Mw",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl Keramat Jaya No.25, Beji, Kota Depok, Jawa Barat 16421, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3880357,
+               "lng" : 106.8112469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.387112749999999,
+                  "lng" : 106.81178265
+               },
+               "southwest" : {
+                  "lat" : -6.390804550000001,
+                  "lng" : 106.80963965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e720feb374fac7567c36d7a15b3fb8afa7179e08",
+         "name" : "Puskesmas Depok Jaya",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103802648829485403103/photos\"\u003eSahudi Oke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACvoOLBkQ4qCOxy2QvnaM9AgkF7-JH2SqXQO7Pyqw69551GAGTPiA9jJF_lGSlBIHquwOkKr3UmdIxJgkUa5YEZsg1_P2cNAR9isTCv6u1UehBJLEyVi3-easuOkhKl02tSnlZpr9FMfWubIBhYboqFELHz0YpnELF7fy_hfaP9AEhDUAnW_-6T592V8h12JjnePGhT7bmlRZYB9gqr1ssskZtpPB70IRQ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ11sw5lDpaS4RbuyjNnRVQMw",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA05fsIBOIy7f-JmQmVLizwgIa65BD6A0AviWHifnwj7R5vXo9Y5x2a30TmW1qB3CC6h5fabD0GTGEr7HSzDJElzJDJ3xtqti97F99-n9LZpDfPJi_2cYcOGFYutQ4BoQPEhApK-buEN4GyOWpI9RQfZYKGhSwT_t2fKDW0tMWX8s715PN16Cexw",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Arjuna Raya No. 1, Mekar Jaya, Sukmajaya, Mekar Jaya, Sukmajaya, Kota Depok, Jawa Barat 16411, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3891118,
+               "lng" : 106.8381883
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.38875135,
+                  "lng" : 106.838241
+               },
+               "southwest" : {
+                  "lat" : -6.38923195,
+                  "lng" : 106.8380302
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "afbfa94397a9a50cb97cb052391a3e4721a7b751",
+         "name" : "Puskesmas Sukmajaya",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107723556474783875929/photos\"\u003eoche2172\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAIDvVH4yY-rEbXzgcS3837-z797v7xRXhXQsiO9Uqz8q_ad1eJluX7QjDI57FrXXhfEjGVkEOyRBmfCgbauAh_zzkwldd8AVhG0L5EhcT-l36s-pQVIvFkCkRaZE9nd2-k18S8iONZDVN0CRBvucTjmtHiauawQ0fwSJ2P9enRQQEhCD2W2yj-yJ5ubB2p2vzVz5GhTnvq3SvcetkXEv04Ml1Fwxf9fuJA",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJxYcYWvLraS4RhN_defoVT-w",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAAFwllA1kIGh3ragZN_LvgQAVkLZaY0qACpEQCuPmflfVANC9jU35TLR3w9iHuP_Lv-uY_PF-z4QebLdARiq6msgwKl5yFzmHhhtfdEIpS9lbdJEnHGByDz2VGggeAzdy3EhCiZ-bNWVQNtUMf_D1LMxQsGhRgAzRoC2XSoKbO-frkTtc83X5BxQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Bogor, Curug, Cimanggis, Kota Depok, Jawa Barat 16416, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.387002799999999,
+               "lng" : 106.8675776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.386960199999999,
+                  "lng" : 106.86762105
+               },
+               "southwest" : {
+                  "lat" : -6.387016999999999,
+                  "lng" : 106.86744725
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4d17d3ec264f129b625c3547568bec1d12ba2f99",
+         "name" : "Upt Puskesmas Kec. Cimanggis",
+         "place_id" : "ChIJc2Hi_njraS4RpXK0DXFq90Y",
+         "reference" : "CmRRAAAADV4vctwLxTDAmJ3s8gJWCuT4Dir9w4crKul5f06YrumHuaDdtQ6DEmK767v__TJIgCu4Dm1vnaqC1l-IQHQZiKdeC_3QRCZFKlsEkMqaBAhaJW5BMx-HNw5WmxRZdgkTEhD1CTeleWcYiRxUnfDlGDbQGhSkkxMPpX6fmIJZjJ4NnM81CBIVkA",
+         "types" : [ "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Wijaya Kusuma, Sukatani, Tapos, Kota Depok, Jawa Barat 16454, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.397017599999999,
+               "lng" : 106.8889917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.396877800000001,
+                  "lng" : 106.889025
+               },
+               "southwest" : {
+                  "lat" : -6.397064199999998,
+                  "lng" : 106.8889806
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d43b98ed5f1091842631c5259ad7d5cb9ee643ac",
+         "name" : "Puskesmas Sukatani",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105842580881855305493/photos\"\u003eHerbayu Premhouse\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMUU29U7UsW-5Y6e2x_OqooNyt38V1Vz_2lw_L4mAPhGl0EcdF8vRSRkLONM2KihfsorW5KW3wpZZrn-75nBGTTbt6cyqDox-Da7SS5CrFDv0psrD35OaDEAun2st8bW3XC6PQ9ftXqBkRKA1e6r6OC4wRJMAMdY3t9eEq5FtIfLEhCaEZTU3-OGsrY3gFvzzWzeGhQt-o4eKHXjLjsnIB-vrIDIyjadoA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJXS73K0DraS4RovXmwao3RfI",
+         "reference" : "CmRSAAAAceuOcoMycDNLa-cDU_D4l8QOb9b4ttxGre_Mwr0KudkrTMH9s0BqGIlamjfcqOBU1cyCQty4d9ZgXbPyXvfIObXfkAI-Vav4zpHvsZjpb7OKAuUjr_bTvaeitgyfs2d7EhAj6-pdxWzIfXMsr2M5tPfvGhQInZe8wuIkXwPPOil7Z0Y46e0vBQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Ciliwung, Kemiri Muka, Beji, Kota Depok, Jawa Barat 16423, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.380222700000001,
+               "lng" : 106.8312446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.380124250000001,
+                  "lng" : 106.83125005
+               },
+               "southwest" : {
+                  "lat" : -6.380518049999999,
+                  "lng" : 106.83122825
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "c43d716bc2d5f392b495a1233a3f074d8160134e",
+         "name" : "Puskesmas Kemiri Muka",
+         "place_id" : "ChIJFVZDKQrsaS4RreiOUZVVkQ4",
+         "reference" : "CmRRAAAAYYe9npAauUnpTt8_rNQBMNf2iQiKwxnhsBJwgThw8HN8CpjvUHcbR4pKMAaHjqsXeC_2afFkdaIp6HWBoJ3TlUi-VQBN3qNm4nL56qUHzqOr_2tvjBbyaVTy6aBt4a-LEhD3Cs2TxdgQ-QOonuaQ5cBEGhSwjtSFRI0pNS8CIIMHJOJW9CIZ-A",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Akses Ui, Tugu, Cimanggis, Kota Depok, Jawa Barat 16451, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3558407,
+               "lng" : 106.85465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.3557351,
+                  "lng" : 106.85466575
+               },
+               "southwest" : {
+                  "lat" : -6.3558759,
+                  "lng" : 106.85464475
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1a93596f232516c29289a19656618e9cf4aaef7d",
+         "name" : "Puskesmas Tugu",
+         "place_id" : "ChIJZxXPwVzsaS4RsYmNguiWjaY",
+         "reference" : "CmRSAAAA7OU6SVkDI4EwCP9qRTFghDifynPGdAQVYHSm80GX_g2Bq2InDF4f-UjOsCB9W6pdkd34knFc8IMR1Gp5ZkULlY-KHgE78lHAvvHrw1KQ0o13YASAoarfS-RhLS8Vy7MPEhCJ7ldxpIaof0EgLMmS0-vTGhTxe50EKity561yBdl8UPiXoS4R4w",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "JL. Tanah Baru V, Daerah Khusus Ibukota Jakarta 12630, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3848448,
+               "lng" : 106.8063289
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "941265332b8ace6534448aedca58737f9d6edb74",
+         "name" : "Puskesmas Kelurahan Grogol Utara I",
+         "place_id" : "ChIJJdFDd1LpaS4R448UxIFq95I",
+         "reference" : "CmRSAAAAUqDXpSof3ZQ-3ggZORACb61oUuan0V1pSGca7sv3F2ceSQhHZfU43f1N_89zrjO4o0iyHGTi4GlVpCQTy0l8A4OmiRh92XxP8WeqYSGyiM87XS2qR4bHUliZt4z_PXZ6EhBR4BGd-lKcrnwCzRVxsozRGhSm8M9i67z3o4maD-AB3KOezDYUBw",
+         "types" : [ "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl Keadilan Rangkapan Jaya Pancoran Mas Depok, Tlp 021-77882044, Rangkapan Jaya Baru, Pancoran MAS, Depok City, West Java 16434, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.395587499999999,
+               "lng" : 106.7815133
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "00c3ec3ef974ddc0fdca06fa10f984fd3ae46f03",
+         "name" : "Puskesmas Rangkapan Jaya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101938010500940508576/photos\"\u003edendy agusfin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOp5_ExYEvSNeuU8BrNbBFn-xcfKawK9rtwzYHUNU-dS3LJ8oTiUDWwuf3WKpKondX6AIfoPEzCEZMZNTUO8l0hKXCNJbodQd1VWKjGTT0mMjaPyP2bxyX00ZOelUF1GqzOe4OPKtD2FSXAW8YNfHj31ijB1fT89X4HSOvM8S5suEhACX1K73D0VIMSS1ASH5nFPGhQzSG1Igi7OJzg8ypyPnsieyctbyw",
+               "width" : 1104
+            }
+         ],
+         "place_id" : "ChIJtbWUKSPpaS4Rd6IWAjHtClI",
+         "reference" : "CmRRAAAA7DCFd-ZlUmvagPXVqiXg0hyxzPk7ztDa7U0zRfm553bW9zXLpY8ti2fa8aTQUsi2ZCfCITWfUWkOVP0or66hDzX7lrgoEMuY-12bgz-2h7H586r0hV5wwZFtb2xDb3CtEhD3ZUFuKDi28zdVhV6hvbysGhQ_l3F575vnrW8ha5q0dTWXqfGhoA",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Cilodong, Cilodong, Kota Depok, Jawa Barat 16413, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4359951,
+               "lng" : 106.8431594
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6223901b6c4ad9020ed14ad73d9892d5187b0dc1",
+         "name" : "Puskesmas Cilodong",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJLea4OUfqaS4RKjsPpfAvcck",
+         "reference" : "CmRSAAAAYH6t564q5bOuBLJ02zkT_9R-_-D_-B8EXFtTzZXceKgCcD85iqW1C6R3UPxDULWhcq8rAedZ8n-CwefK-nVTanLSboVin-EguMl3jMWYwQt0fuylOfN9h7hhMUfD4VxgEhCNrsPNSRYYUCWj19GEtRtNGhSodVIJswKJjRDK1Hj9maB6sUi00Q",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Perumahan Depok Mulia 1 No.3, Beji, Kota Depok, Jawa Barat 16421, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.388836,
+               "lng" : 106.8045169
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "8ee6163e1face93246b5e344bc053b7d7e728fde",
+         "name" : "PUSKESMAS TANAH BARU",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104713584825934283546/photos\"\u003eSolihin Ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALkMvq-dgZ3ualNYIYWBNUxNXe1VkVkFvlle56jWdQ4BjylYfL_vtt75_tjBCavkhzcWWcbTkSWOWt9kO3j25koneNtTfReNcikgMG4EeP6tvAeaYWe5qIIGco6wjqTjhLRIWK0PCFZzP4Z0cpPqVlPE3JEkDDWAMSuMdt_VRjzTEhCvY3JGA4ztYQI7iVG6ZBLtGhScHoIfDFJjXW1EaiG7hUmxrE9bAw",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJ46hjDaruaS4RBTsnw5S4fjo",
+         "reference" : "CmRRAAAARl8xQQteU6lnzXyJmjl8V3RQqRj1_-_W0xCml_FeoNOZGMaaXs7nfjLlAwxryvA14yFNL7DvVgetpViaxVFFkj28s81aO9oMoyUKMkvY6OZrApiol65-5HsEK_Jxn7J7EhAKGzKId6Hr_ZsId35vy4NxGhSUaQ7S9oSwV2-dhm1L-yXg-L_ZGw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Blok Rambutan No. 108, RT. 01/RW. 04, Cipayung, Depok, Kota Depok, Jawa Barat 16437, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4198271,
+               "lng" : 106.7953622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.4197738,
+                  "lng" : 106.7955081
+               },
+               "southwest" : {
+                  "lat" : -6.419986999999999,
+                  "lng" : 106.7949245
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a27c0eea79d90f435f5e99696316da4e9519abb3",
+         "name" : "UPT Puskesmas Cipayung",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114004846365223062643/photos\"\u003ePuskesmas Cipayung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANUEUyqlNBreO2-rJ8mpdubrMpjdT78x8GRJMuo9R80JhDKfEHiKcgr9Sh2xqw1iSBHNfoW6q4Irzh11q1QSdBhwcGzeRwVukRXxBgqCS56yTyQizjaf9aarE3vJv8ocq6Sb02gO8UVKCNqH_UVkK7QhK0U9VrSHXak-Hsttv1UhEhD-pf_EV25y-HPFjdiOjpmwGhS1-fi6i-v9aIspUw9K6JpihhGY4w",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJ1SXo23TpaS4RYFny_SkiB6g",
+         "reference" : "CmRSAAAA1LZ83mKsaDlVk_DwzsStmPtF4_c7uSN0zx7an5Rn4vtEs4HfAxol2l3r-zV35gPzHnEaVjHfzyX65MoyiCnCJ0PVvvba8741DtqV2sNKn9EuaXoKHWmJO-cUwj9j_vWCEhAQb3ofVf-fl2vUUC2Y9VhcGhQDICcg3o_6jK-AEr4obEtaZg9krw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Perum BSI 2 Kelurahan Pengasinan Sawangan Depok, Pengasinan, Sawangan, Kota Depok, Jawa Barat 16518, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.420499800000001,
+               "lng" : 106.7575317
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4a6121986b3f7e2f9ccf3051457d58544ff6cfd8",
+         "name" : "Puskesmas Pengasinan, Sawangan, Depok",
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102039125185564906443/photos\"\u003eTeguh S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALnj5s2uvumCCUD-OiVm7k_C_5OVh0INDFFiFeemdstKXjNsLKV8WQFqE_nhdNIEufpEWhgFAOIsjoiUjdza3tSHF581VeJyDbG7nrq8hlOB82JeGCJC7xeHs1l4Enj478MMZjG7HSDpgDViSY8ZB-p378bWK56XZFa3zlO58HcREhB2MR-jZW67ncEZgKs7Y7HUGhTVLep5BsDFgKKrbK7dMiDpDzO3pw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJaTn6avfoaS4RlGhWS3vY3I0",
+         "reference" : "CmRSAAAAZFn9PiVugxVzKYSkW6OuaL6gyh6T0TWvMVClOPyEkG1DHZ6Z1pVHZq9sW4cY7eKCYsMLvLlrfvYzf_GSypdk7w7hFoBY3Axj6s9rAWnjAurlEQwCREO8OoUkl9xN0GivEhCBSdN1bO-A4z6bTeytL8M1GhSsSh7S81TMpLtoT6-EKTaqBthFiQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Tapos Raya No.35, Tapos, Kota Depok, Jawa Barat 16957, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4255584,
+               "lng" : 106.888972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.42551685,
+                  "lng" : 106.8889851
+               },
+               "southwest" : {
+                  "lat" : -6.42568305,
+                  "lng" : 106.8889327
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "233aab779613cab3662111a17fff25f05115fd60",
+         "name" : "Puskesmas Tapos",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102915241803232233217/photos\"\u003eRika Natalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHcSH9zgY7rZgJ1AWCSrtDBKsdQnsbRY4hBx0K1Vn95YW9qEUYUvQPYNEYMriAtxMPT3Ct9bR0niEhck0dQ40wTIvThx87mYU7YgxFYJ_u1WfWIfLVMNEvJw2e0uHsN5J2U2NeQOIDErXobF6R05ije-R5OZt7GryexwKwvKJ45JEhDt9OWXjbsh0gcaRo87TaZjGhSiuJiFTYnfhKxNT6GEyO7wm_UzvQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJMQdC8N3qaS4Rwehe6vlSndA",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAV6jTYiw7sw_XEd81_e09qbukhgeY9JE6JAkUCYOKjfOviofhKB6RkxqvgLR2W52qfIE23SYe5WdfkCKgGmTgVHtAulyjYoHSYi2Pw1R-KDH0Wl3alS2BIz_Uqws8SYz-EhAoyfZHkorFv1RnVLsA8JJcGhTaus3lnKkI9ovq3Vh6M86sUC3lNQ",
+         "types" : [ "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Bogor, Jatijajar, Tapos, Kota Depok, Jawa Barat 16451, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4199564,
+               "lng" : 106.8582687
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.41970725,
+                  "lng" : 106.8584793
+               },
+               "southwest" : {
+                  "lat" : -6.42003945,
+                  "lng" : 106.8576369
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e371a972e9a452e928e8ce9eb62bf95cda675dea",
+         "name" : "Puskesmas Jatijajar",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1030,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114998623861710893754/photos\"\u003eDava Riansyah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAc7wmhBLvrtwRajM6AOOxUbW-hasxwQzU1DWc881D9dKpmMhgWzhLVTCfpUfm92yQWvcks3sqInhhlH2eBAeIO4HfcrwdkCaVhhbeci98o8rWW07Puk81LPUBkR2sVdJiwPS6xaC4PxU8x-_x8vpiXdQu-ZUDkGINE9ez-qjkudEhDgCsPSkCZekUujh1FhTmq1GhRN6-vZGZWKCWOel5brBQaRBmx0hA",
+               "width" : 772
+            }
+         ],
+         "place_id" : "ChIJ4TH2TKvraS4R0QjI4HIU4Uc",
+         "reference" : "CmRRAAAA31ImqkKd8TCRVlOgbbhWuabMdWC6Bw5hnGlXlfE7IIdtAuz2UIGtT6XCSCP1aSpskyQX5rva_kaRxYkwlZaqIKmaxSW5yarInGYkj6-4ncDqO4K8aTDLXhRj2se4ICczEhAtr6MUyt3RWXhMf4OfYpN3GhRHqstA3pJEBMaScoj3j0_AX3MXng",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Lely III Perumnas Condong Catur, Condong Catur, Depok, Condongcatur, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7566492,
+               "lng" : 110.4081613
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "df441c3cc09025e244cd7762f73ee2d53ca22747",
+         "name" : "Puskesmas Depok II",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJd_DegZ5Zei4RMfqZC-H8Zec",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAfNMqsBe5zMcZz5lZilWMcN0rV_BYFz4LxwbWx1mCA_dTVdlM_sl9vVfBdJYham_ChMT7PwOysOjQ9Il0DJovqDAeKr61EyUsEmpRPBoLt-M1by50my4pFvXAAlqgm75LEhDJd6pUD9rzlfKRmfpdAMjWGhSn2-tPTm0zPjTyxv-6rUhRbmXkvg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Gedung Baleka II Lantai 3, Jl. Margonda Raya No. 54, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16431, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.395294300000001,
+               "lng" : 106.820747
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "12ef79eae0a1df97ed93255950e953c68eb8e26c",
+         "name" : "Dinas Kesehatan Kota Depok",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJC3UZvuTraS4RMKVSoqLc4NY",
+         "reference" : "CmRSAAAAEtfQ-PqE75AOCUCH3-ZvwkjmC-y0YlnOy1vGPDrVBR7IT5XJ1DgW0jPDHXhcueQ0tO2SpQJqcFTCg-zCHBPFi5xQXpgj0VE8y-2tU3OtdDrR5t-xnhqkzn-QUstbot5lEhAY7pAWfqp5NNowopoxauUvGhQ0Pf3icvI2X0VR2yhRpZRkAQUjqw",
+         "types" : [
+            "local_government_office",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Jl. Kebagusan Raya No. 4, RT.04 / RW.04, Pasar Minggu, RT.4/RW.4, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3208534,
+               "lng" : 106.8255392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.320672099999999,
+                  "lng" : 106.8256364
+               },
+               "southwest" : {
+                  "lat" : -6.321397299999999,
+                  "lng" : 106.8252476
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "60e12a1a6ffcb9023d5d1121db7150a4c61d368a",
+         "name" : "Puskesmas Kecamatan Pasar Minggu",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118236888261080687822/photos\"\u003ePKM Kec. Pasar Minggu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABWDxCKOYyKCiIqlLn8BP2B5F05VmUFfAyGi4g83zxg4XBWdi5dcKNL4O6FrOaQDhi52_7qWoqvS2IQ1an06xE8tILXrroKnBszwkSFvsVts9KacJw8krC_-4JMfCBTdHTdUgKJsbYA9r9hRXBVPcFD81bmaLnbqjgOjSUq3iDfkEhAWA_qsN_ZPXSbmeQrkvU-wGhSICHK3MNxbN2YJm4vUr-R4ijOlsA",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJKcZtud3taS4RSqS0T-bzvCU",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAMSyet_RWS8FzTeHUBAs5GYnt8ldQFzdDMK8L2_Bf515sx9Q3cHEPnqqejo620uujP7zga16tKtZ9eB1BVN6I-g2IILF-hv8C23BXjBzFWZnBLbnxQWrqDZWya75Xr8nVEhCzLUtVCIJGTNAvoKm0jTfrGhQU3ilneuQUeFiU33sx2JubqFbRVQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Iskandarsyah Raya, RT.5/RW.5, Melawai, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2474751,
+               "lng" : 106.8056508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.2472465,
+                  "lng" : 106.8059559
+               },
+               "southwest" : {
+                  "lat" : -6.2475513,
+                  "lng" : 106.8055491
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "035917e76893c38e4860d3ee149112633a6d6626",
+         "name" : "Puskesmas Kecamatan Kebayoran Baru",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112343766986755390812/photos\"\u003eEko Apriyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANGZrfe0xwjzYenL_kR1gBiAvhS93nYdmH7x3lTA9T2oVzOsEjB1L8cBwuk-HmESFtZDD12ZhzZZcmtrVUM_JlaYbZnmWMqhALlTnEXpvVBGpDkqZm7yQJW-XAhQ7XKub6JU81_1lhLQXkwU4yrBWMIeWw3jPueIinTXZ0_sgereEhAGFNeXh6eol_kmQWJgzpXBGhSHWPBjvrtGcMAy8vndIACS0n_RnQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJmx2G82_xaS4Re2VwipaPW5M",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA7IYKAiMpKzd1dBoEM86cV4ZRK9wzwTeELlaFmoFBrR4ZntgeGJFroHNp9TcLpOAuxpOgkTuwjc9YlqTkfiOv7pw_z8dYJWCYgWyDy59Va8bl2oBFqM0utXvagWi996wCEhBy7VN59HwFYUtb5gXpVh6vGhQsTHZkT8mOfErCvDe8ui-BspF7Cw",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Mufakat No.1, RT 01 RW 03, BIntaro, Pesanggrahan, RT.1/RW.3, Bintaro, Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12330, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.273036299999999,
+               "lng" : 106.7644877
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "d4eb9b9b57c1105449fe0cd146c5401e14aaeeb6",
+         "name" : "Puskesmas Kecamatan Pesanggrahan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103504259562243155252/photos\"\u003eMahmudin Tea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAEvvMZR9M0YAewevRluSO-OZvIUNOWkCfLvkxzQO_NUIkS16JnO9PKYfz0HWtDs0lmtb6Tx1dWSCdCF3UuGTwF1ldJX8n65I-_Ii9VCjQGpVilCq8MrMzh8D1CItHiWLeSl_nZ8-DSGCRPj1syCNE7TDKDHYqLGiCaAHk8L-84KdEhA6pa8b09eZpA4r49lz5vGcGhSxIXdw8kwSByBYdIFSZ7ZCWxfz9Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJly2nK0zwaS4RwBlMlM1NiT0",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAN1NwXzdGSijhdL50L_9aKwWBcTMG_EorBJ-jkZqHIRq_NslC3ROVpTFbGY6whvl08c1_-CKQxMil0zFtMKNFcBh1ziBNUJMMymD6iiaLh8-0862V2vYtgHDEjL_TO032EhB8Tac5GVhZC7D91Vdvv93jGhTcYj_msuk3bp42IiKsRsaEHRtYEA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Ciputat Raya RT05/RW01, Kebayoran Lama, Jl. Ciputat Raya, RT.5/RW.1, Kby. Lama Sel., Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12240, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2497598,
+               "lng" : 106.7783218
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.249748200000001,
+                  "lng" : 106.77845575
+               },
+               "southwest" : {
+                  "lat" : -6.249794599999999,
+                  "lng" : 106.77791995
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4c15baed02952566171d594faa26ccde88c7c876",
+         "name" : "Puskesmas Kebayoran Lama",
+         "place_id" : "ChIJN7kAtgTxaS4RAC-qPGdcLoY",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAbuCEJ4dd31oWMyukEIqm3mGvYVYDLqd8Zd_rRoW95NZRAigKwhqpDVgOQCu6gyemAW_3ElTOjjzr5p39EajdHSb0zycazyKwoeF3cV-u4Muy8g_3jfCppAPszWQFSJJYEhBX0jdeNp6b4GqyfxbcIr85GhT37sHb--XGwsuq0LsDSYIPF-IXUw",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Halimun Raya No.13, RT.8/RW.2, Guntur, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12790, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.206904399999999,
+               "lng" : 106.8337852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.20683045,
+                  "lng" : 106.8338571
+               },
+               "southwest" : {
+                  "lat" : -6.206929049999999,
+                  "lng" : 106.8335695
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1d02b031c077dd908435683f060f459df6c9aaf9",
+         "name" : "Puskesmas Setiabudi",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100883692913020800341/photos\"\u003erizaldi sp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA-zPMKRtnMTVebLxKaHxYGLz1pXpS8AHFd2idQq2-wp9rksnCnDqGz4z5PBaoHoUeip40b9bqX5tNR2Jm-caqe2qKvH4FHEMVHy1NPjS9HSEfl4nbxhuUiAeHEtphyz7mPIU3UNKlGorTokceFOJfP18Lq6g-EagQn0cmXM_-zlEhDF6rumlV1B0jofGxY0exrmGhQE7qbidJkyu6i8-txacCEvuIm3XQ",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJh_tHIQ70aS4RoG18TpY9Usk",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA1v8_ABIS1_LqmvgEq_uEXLjbEjd3f0-ZGxtBUhvPLdelUSmmtqnDVwniKsyY-gDWag9jcdg2vlHpu0D7BZ61oZqbn6vJTmWITg5SdjLEVHbkYxfM2ZK05qERiWRv1AkXEhCXcupac4JVuekZSujSSYy8GhSphirIuFb9lkWZRLih9SYhF3aroA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Potlot II No. 6, RT. 001 / 006, Duren Tiga, Pancoran, Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2549993,
+               "lng" : 106.8392465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.25490695,
+                  "lng" : 106.83942785
+               },
+               "southwest" : {
+                  "lat" : -6.255276349999998,
+                  "lng" : 106.83918605
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "5710b2e9f19be5f52e03c5bd3389be25221fb674",
+         "name" : "Puskesmas Kecamatan Pancoran",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113461403301655686274/photos\"\u003ePuskesmas Kecamatan Pancoran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAPgQCg7cAH-blK7P9LlSclkU3lPRffVR3PRRBTjwchifkk-aiZ-UHzLQcFXjfQtaXn4JAB7MJwxay2u_CbrWO7tYWKl171d0Dq4yJM7bIDtM9nX39jcRg1VnooFVAFQFYaKmXFu72oYBqZeIGkccRAfjpxh93aQM17lfPSMuWW8QEhBvmPZuXsTeYBDRv19lAE9uGhSUMEa_E_Gslw3IrIrOCn-JkMOA4Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJC-BPVsrzaS4R-Xt52fx54ME",
+         "rating" : 4,
+         "reference" : "CmRSAAAApmi6kqxJO0gR1fZusEoINJ0gIITZY1z-zxNm_y6WskwDDiVyvfhhYza1CZEmDqivspEF9dmARf3mrQthnA3dMEsXUUrAfxxycZjA4l3LlmeZxsYlnGZT9m1c8Edo23gdEhDh8JyQrNUDNjaUIJb6Wd45GhQy-f2mmz3RS1zrlZWRZ6S5KKjoRQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl Batu No. 1 RT 013 / RW09, Srengseng Sawah, Jagakarsa, RT.13/RW.9, Srengseng Sawah, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.352123100000001,
+               "lng" : 106.813858
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "b3ecf3dac365d83c2dc08f11e16c34bccd2036e3",
+         "name" : "Puskesmas Kecamatan Jagakarsa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113733485537990335776/photos\"\u003ePuskesmas Kecamatan Jagakarsa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALEHeLnjyZ6H7wCW8pa6mUs0Hy8vRapxezRoSCxebMCWLunN-7_-_vYaBjTg2jIYfYoiB2tKoDpmzbJj3EJXAQWYdPF48VivI7fHpaani-Mc0r52XC_TjJWancOmG4FxAFGBo71rKf9_dzjlHPFfwEOY5_8tI-qBMy-Uuk9c_B-mEhAjcoryu83bs1MMiJKWALUhGhSfgM8Pl2ohtLsvQv5lRzKQD0of5g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ1VWCwpzuaS4RT5VwyhZ0498",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAAvhmKl41J06Z7a_umpScE26FMx__5Y_JSWVKN4c40Tf2s7SMEoVSk_jfzTbr-MY_ZRFoAtVHA1Eg1knRUfwdtJaKL3OLl1U3Q-nLNc5FD59hQk_NgzbdQrOqHkXJv82G3EhCiztqwdje9ME90PjRzdGhSGhRAYFxpYIA78GQDHACIkZp4vZ2ybQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Komplek BNI '46 No. 57, Cilandak Barat, Cilandak, RT.4/RW.5, Cilandak Bar., Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12450, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.286754799999999,
+               "lng" : 106.7932678
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "71b571d4de20fda6c9ede17671f645293f2ac1f5",
+         "name" : "Puskesmas Kecamatan Cilandak",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118155297761338248791/photos\"\u003ePuskesmas Kecamatan Cilandak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAADKxgNIdlTqsnejrC2-V1ntWryvzrQWEIKOV6HVTI90LBfUtfYMWITxQoHGGMLPN11tBqawHPhnjbxs6LgthmbtsWx0zYPJ83N4zskYjk3_Ti_8Bo2pjvfY4EE28tf35qEzmmwjdyC7ER8_f0_K-muiWA3cwrT9eztLwZXZAYSNPEhAqptZhhwTqTKweyCJaEpxLGhSyzKSPy8bP0kC_--K4oqHxIqfKoQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJw9ubhsLxaS4RIZ4Cr3lpkm8",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAPauX3B6HPCPmzwpbe0_z9WUXY-n-FoKAJuq98mV88f_msrx7xL-QXRG_G3qzdoPkF0Nc8NQXW3y1QYgqM4v9Zpfa0u50hdF_2jL9sPpJwCs-yKH95r7otxqKTriIbmycEhB-KkyrNg3Yk1jIHFs9gMSIGhR8t509yAZStbUpTgfilSuDKfc1QA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Kemang Dalam No.3, RT.1/RW.3, Bangka, Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2714498,
+               "lng" : 106.8199341
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "628d5721d8392d021bf5a50d0c6b12e15f49d1cd",
+         "name" : "Puskesmas Kelurahan Bangka",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110156996437364405637/photos\"\u003ePuskesmas Kelurahan Bangka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGSpBrjhTTVt78FfctidgcWcAI7bNQKFiLKEq2UAX0mZF4VDPqi7NGIY3mfmfeU-QgL1OKs4oD8cGvmNPtMNXp9wzpTDI7q3MDxEZO0f75acBNTO2WzbpmVs0-tEaj3cj9ZDgY6ZDBZdFyBs-QjVBVulFWn_CQGfJGeLU4_cwdoTEhC-Qb1whicEznOhLPa2I4zNGhQiPt3_9Y9z_Ct3eyucXZZJJL74jg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJK1ZPFCfyaS4R3nurpbX5ctU",
+         "reference" : "CmRSAAAAjJK4dS3UoEQIW_bKI9FSHZB7snXi_x7EjzaSiXvh-jf5G__LTJRIrSqkWGyFnRfnf8AKgqhS7FiGDBK2Db5BnCyVE6v9j38axPO-6t6w95hJS0WB0FEg7CMtBT9s3IWiEhC3s__EvJmMG5cAyGq4L55BGhQ7bzeEGk_Qm_4nTNeNryQJ2J9skQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Bumi No.42, RT.1/RW.3, Gunung, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2398145,
+               "lng" : 106.7903853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.239753149999999,
+                  "lng" : 106.790487
+               },
+               "southwest" : {
+                  "lat" : -6.239834949999999,
+                  "lng" : 106.7900802
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "3f11b974badecf8927bfc4d220489f068dd7fdbf",
+         "name" : "Puskesmas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVxcplxXxaS4RAWk63FHFgvY",
+         "reference" : "CmRSAAAAcEcFi6rNC6nqwXVoXQ3nND1f8PkIQD3Tr75npKo1FJTWgiW13bAEZsPYsLX1I4qnb8YaVCVYszA4FeAgO9nRBOFCC0i2YqHb4PZT_UUXPX7mzzNRXB08KZkvAuoum6CVEhA_-GxoULq1TyV0bpNzRUSVGhQIdP_93_d59_K7iQLHgM1Oz0rICA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Harsono. Rm. Rt. 007 / 004, RT.7/RW.4, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3013439,
+               "lng" : 106.8205857
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a8eaa13cfeda717a42d238d54675247d238d8f68",
+         "name" : "Puskesmas Kelurahan Ragunan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114823533818169433228/photos\"\u003eSaadah Sabiluna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAACJGXMbrgpQIQ8O6linG_Rx3q60dDXEOQM_YR26C5vjmM9C97w4q8ovg0pckOvP9vP65ST75ismc7qapxhs1cyDlW1dIQIMIw71ib_MS8plGrtWRni0CqOqAsiSvyVWdKfoD6Z4s7LyYNub9LMQERVG9YycnDVXN4Viyvkb0laLXEhB1vGY84NAF-NUsE9tMVxWmGhTee4Ju5iKs5aVqXcrSVmHb52l_5w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ583hAv_taS4RtcZMPVsueXE",
+         "reference" : "CmRRAAAAAmY7vEAjyR_JK4Tc19ifuAis0Zaorc6hHrS4wdwy38ragdcSYwKWvd4q3vsuvsD9mR5lwndPn4WM_hGbGVqRNT3W7adioZ4XHkS5GmedOhui8HcXePbw_aeWnuFn9mf7EhCMwZypYYwGdCc9WHm3r8RiGhTTojKOaAQ_fP_v6S9x2nZOrjIYuA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Pengadegan Timur Raya, RT.1/RW.1, Pengadegan, Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12770, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.250948900000001,
+               "lng" : 106.85838
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.24915025,
+                  "lng" : 106.85896635
+               },
+               "southwest" : {
+                  "lat" : -6.25154845,
+                  "lng" : 106.85818455
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "77c1027397c39d9d1234a128b184bad915144bd4",
+         "name" : "Puskesmas Kelurahan Pengadegan",
+         "place_id" : "ChIJ3X0Nza7zaS4RtvcqCcP5IR0",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAxcawGJm65h2EBimS-d_-kjQQfGhJlNuu_tS8hAJR2wCDDkCBCqF5XBBpjaidLotv77gKuRBORUvr_rNcfyBwTKBaFRj5rFAhjBzkkEDvQ-4gy00XZnCcF0KjaCFDkj9dEhCjFy-W4A2tBWACrt2HQvDSGhSl_zK_Ph7STulWK2tnhTzMDNjUoQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Gandaria Tengah 5 No.2, RT.2/RW.1, Kramat Pela, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.244470000000001,
+               "lng" : 106.790242
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "21c319aafca8523ad83e5f8daa9b68b64345bb94",
+         "name" : "PUSKESMAS KELURAHAN KRAMAT PELA",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109102386440795658533/photos\"\u003ePUSKESMAS KELURAHAN KRAMAT PELA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMmTwVNP31FanEGaDl3Yek-FE3Kmphr1cDfDL4A2qM1kXEj_cH4ORMxN35_MRJ1apT5iL5AlWoqIfRsZAh1dIlZUlcOahNYed4ey2iUvOVzS2vEmBm8-G6tzQ9K7jNwXpRL7AN7cDmybGqwTGl_2X75YPIUH91qIIDFV551vcJh-EhClAPthMY80ysB3U5iapeUcGhRPiOiLNHgPrOTm2pg72_eJPQBQBg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ3aBvjhPxaS4R4iN7hHKOGeg",
+         "reference" : "CmRSAAAAQ-PFRWusp_yW4mBtKvI7uHLc0rTjzJYOYGbPCf5XxGm1qfV2dQ1V-hTiDZc2AcU59oUweFwyKbx7wgr6tF185z_PKqpQ5-Fa2XvSTyacwRXThnRIgKDkWoh-okV5ZtXvEhAYPliJd2iBHrSI9GMvichZGhTtxdlyOGF1xmqUcS3_mBvk3O3G9w",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Setia Budi Bar. No.8, RT.3/RW.3, Setia Budi, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2082574,
+               "lng" : 106.8240816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.208235199999998,
+                  "lng" : 106.82432295
+               },
+               "southwest" : {
+                  "lat" : -6.2082648,
+                  "lng" : 106.82400115
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f08460374a311f6021533552bf583fb0659a6c6f",
+         "name" : "Puskesmas Kelurahan Setia Budi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107123776419542972041/photos\"\u003ePuskesmas Kelurahan Setia Budi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAH39qiv8kGIbgOp2GZZw0qS6i81dOZF9tXwXTxa2VmNIsxIH3gSg0WgQbtHZz8u_fM-13lEw7Cwycb0TbTTZfnotQQnDptbPYU-lag3BMtA0rpmdH8dddWLoOJfSqiefuiPDWnIInuI__B3puv0pDEtcHG4FXyrLndwvKCeVHRpmEhApV6o9nLpgs-sSj4fszxeqGhQTDjGo-Rxzeuh9tzhE4vfUTmUaIw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJiRJdPxv0aS4RYeYovcFswoE",
+         "reference" : "CmRSAAAAM_WQ8h6sF2D3Z8YKUcUUSCI74sbJL8tcc8kZJrhVOkyTvmUOhvrfbv658R_LzS6LTvB9_1QkwzrNXR1pC-ZmtSVA0NHaAjMgTx83N2rAbul2fSWKLwZlTsIwsed0YHN2EhAM1_nwte5ayrYgaCFhGCDvGhR8wsiuHEv8jyAQ9eqRkSvV80ls6g",
+         "types" : [
+            "hospital",
+            "local_government_office",
+            "health",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "JL. Jagakarsa 1 No. 15, RT.5/RW.2, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12620, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.329034200000001,
+               "lng" : 106.8200486
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "094c7e87c629b9701b9917a66fc98f0c52b9bc53",
+         "name" : "Puskesmas Jagakarsa 1",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105782915516423844771/photos\"\u003ePuskesmas Kelurahan Jagakarsa 1\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOaQJHY4LJdDhdFVcplvHx3iLchOscq-PqT2kTbR4s_ZNmGe-unBVa-johZLU1YruZTx9uqC7z7qpeDn8YvEy_R-4Y5PjqK3PmT62-R7bvC9fpGRzZbKBrXUqinyEg_tOtgwnSSJpHMr7Wve9c-DqVDjxGcQYJX3IB2Bfs8u9ghyEhCmS9BDzJaoOkSUXeHoRvpXGhT84610NUO6ZvuupFtE9EkT4QKAag",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJa7s6RtjtaS4RZ_bLfIC-iRI",
+         "reference" : "CmRRAAAAZ5DgUtGHu0We9uz3khMbzvGfBRKFx29JDNUnNEAch9ZcYmKY4YxOsCbms4hxvsLzoiiViCi4mvOMWRORLq2Zd0hwiTA4ieBASFb_QXMsDRzoyDNSJ9t7D-J9AiA2YWYPEhDULArdzF4juflJDIiKPWohGhRzgMTZnB-YnQ2AyEMF1CcAQ6SbKg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Tebet Timur II, RT.06 / TW.05, Tebet, RT.6/RW.5, Tebet Tim., Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12820, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.235438299999999,
+               "lng" : 106.8567744
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "7dda036ccb29fc5806ffd4bf04876d5261b0143f",
+         "name" : "Puskesmas Kecamatan Tebet",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104517266130429441035/photos\"\u003ePuskesmas Kecamatan Tebet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOFH6yWsfEB6gkigfWFIFn3FkooQIwufGrSLK3nMVSRYukO9M58x_1B71tI5wCeovBS9Z2q7O8oFzga8D2kFU7ztAHTI1RwgY-ZVUJZ2_E7wCJHfhzZ3FK7dWoK_zY0K5ECXWjE8caRsdXDCRGbr1ChVRX7qxArP5PR9lXq_uONGEhB_Fv5s79VCSd5rKpnYIZUPGhQSZPs4HzkEDeLUw-In2q90uS28HA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJfxyL9JPzaS4RF_tWuyVtjmA",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAANh0cUCyMUgsvtCxyALEhmsqO6iHeOY28SZ67F4TLXLLF46dosrZaMXPa7SfGsFSnsFsOratt839DHiZIiULNyXEd39OXPBUpYlF0LRp5okVklkAfyrjLSb0O5S-iQ5ZQEhCiFA190hJi7k8C_tE-Mlp-GhSF948VtmYIgEHQg-sIq1EvPYpmpQ",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. H. Abdul Majid No. 01, RT.2/RW.5, Cipete Utara, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12410, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.265517699999999,
+               "lng" : 106.7986537
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "cfb0ab16f7323bd2edbf658971164dc0a6093f1b",
+         "name" : "PUSKESMAS KELURAHAN CIPETE UTARA",
+         "photos" : [
+            {
+               "height" : 1088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111391693270069824755/photos\"\u003eGo Gel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGgxN_XPBVG1HZ05idelaWU4iYls8556CG8CW3cAYAhhcbLfRSEXWPuSxvS1AD2ZfNe3IWeeT75T_m5wxt3s0ZWAAprql2w2ZcqHjZr1NW60eV3da-rabh8udRpPQSlDjEpqxwVskO-U3NFtxvpbXqYm8UXgmp2ORAYSF2nz3EAnEhApTs35PyIChbcKKoHkj6nTGhR-QdOf2EC9_QToIP2xNusyQVEjhA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJlQcYUoTxaS4Rt6bV6dYlt_Y",
+         "reference" : "CmRSAAAAn5gZajcXBOx69obdc2O74rUA6w72XR37h-vOSKfrrnv53xBZSVDHSJcrymNObMdMB_cYHtkcR3A-7csuTl9gZOGfnn0NvQ7nOD4ctRSycDh0cbpKVY06g32BKZefrCkfEhDonhW6Vd08SZY71g4VM47FGhT6N_RJJ_Qr9c-iLtqt57s9LIlHXA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Dr. Rambutan No. 4 C, Jl. Dr. Saharjo, RT.4/RW.7, Manggarai Sel., Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12860, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2175146,
+               "lng" : 106.8472515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.21750735,
+                  "lng" : 106.8474414
+               },
+               "southwest" : {
+                  "lat" : -6.21753635,
+                  "lng" : 106.8471462
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e707100749267346ac6c623d5f7ab72496084581",
+         "name" : "Puskesmas Kelurahan Manggarai Selatan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109677145143957641645/photos\"\u003ePuskesmas Kelurahan Manggarai Selatan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGv_E8CCS6RThbou0wu-2zcNsmuNxR-6GkdzY69MuLWQ28dIsst5CRl6NdokQxGICcby0ZKNNOVYJGREHnMKYadjIq590wGiGjV4CsdBTl5NHOcxYc6lMusLrpVtvQTcZNgcZWQAIz2-8-eh5icqAWi7Finm-smFA471q-Ge6CnCEhBOMAj6txN3y_Uc2_zD59bgGhRM69e-Yj1HWAYPN4bcS50t_t4i4A",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJRRFRIorzaS4R3Ns3yrFtlxM",
+         "reference" : "CmRRAAAAoQP0Mc7qIfDmo8odvlXX0_Py3MId2a3OnN5NXsOu22D2LuMBE3hn3MIloJAyiBFFzMhvKmVU5xAgNmGwzPMOUd9uBYHrmAdAR5M3RBPSUhEQpRORb3Xtktu5hmxH4xD3EhDKp6AFO3TqrYIForba1dsZGhQEzm8feZbkc5wJm5Nb9VIvLRna3g",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Kubur Islam Grogol Selatan Kebayoran Lama Jakarta Selatan DKI Jakarta, 12220, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.231249999999999,
+               "lng" : 106.781
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4d3fbfc2a2bdf47972926869552abf4bc9e3a455",
+         "name" : "Tpu Grogol Selatan",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107931296539304186424/photos\"\u003eJudi Winantho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJ_VuQUPeqqemBRl3cpJtRsOAbdknCTcp7w4lkGnG8qX_N53cjx-NN7EmV-kOYovQJoQfISVI_lx59jkl66Jsl1ljNmZ6XEQbpFKly7-ZlwzNgGky7h9n6sF44wuHf6ulrE9b4iv5CCdtcN_B-Bw-kO9e2-DR-sai7FQ_lKUeENVEhASKiXfrBjyTClzrpAHE9DoGhRtvhDPZoQXiTo6GTmKQBKkxd5E5g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJK0wx0zrxaS4Rn-iV88IMMqw",
+         "reference" : "CmRSAAAA7UXRpearrMr4PM67GOJMDnTsV5d7g4lvddlUT3DuMX9Yz4chXGp43S46cu2-9ykKD_zfCPlfbgGb1CnfwrzmxqEy7kK-n9_GKsH8lk9Pw3HLyu1knXOzvVQZUiVSo9caEhCevEZYURLIj8sQAtl4bVPJGhQPAt_JowM8pmHkSi1q_cIgF2-7Yg",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "JL. Subur Rt. 009/08 Lenteng Agung, RT.9/RW.8, Lenteng Agung, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.340336,
+               "lng" : 106.837309
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "c9d62966c05c4140af71b78e297017b5a0a8a3dc",
+         "name" : "Puskesmas Kelurahan Lenteng Agung 1",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115284730842124802689/photos\"\u003ePuskesmas Kelurahan Lenteng Agung 1\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAABqsoMKQ0QeTDuzMimG4MNHZ0aLR_3mqPArT--F8rm90Y6roCOElsCjrqOo4s4iSOzusqTAUKdL4AHdDlGJbAKwMvhW-hggXtitugO05xVisetJChgJOfsRz7wdu6LeKCXl0-hMTxSU1w48Qogq6wGBIs7QHyu77EeucZBk-KTZbEhA_PxkvXorIde9SS50Ph-V_GhQZ9-FcwOtm9gCD_24qLysnA86R2w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJG7hq5cPtaS4R7r4cJtZMPFA",
+         "reference" : "CmRRAAAAajZGiarnWfGIqjC8tMo-yQaxlznvy5eCeA3sgn1ayUNQztr7RJ5VHzqsOlaOTJ8JecPTSzyB5C0P6RaW7I3J1eZVQZA49GN5i1wLs5LTnxqa5HjBz9PwuwL0ISvGFKWYEhDx7ePgciGEWVWx_VWv71AHGhTNdf80qWPj7VS6Z3VToOh7Z_AJxQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jend. Sudirman Kav. 49, Setiabudi Karet, Semanggi, Setia Budi, RT.5/RW.4, Karet Semanggi, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2184539,
+               "lng" : 106.8163176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.217444249999999,
+                  "lng" : 106.81684575
+               },
+               "southwest" : {
+                  "lat" : -6.21960165,
+                  "lng" : 106.81614155
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "96fab7b52d65e27b893bb4adc969375ebb7def9e",
+         "name" : "Rumah Sakit Jakarta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 543,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114480512702669548171/photos\"\u003eIgnasius Wisnu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJA1uf8Ty-pz0D_zghj9BgrcVgK4FOMfgu-3Hw0-JaALj1EU8yQVPxV4dy8uKOrVxdxJtQ7BbiChmuCEf2XQ1vZW-eyZyL2-4oa7SCMzuGGOKNIYIIaC45simVzZWpu3D0_r48kmUwHmuiyXNakEyGmZlFSrlVViTSKxe20vVdCnEhDyowtnmlBPNoObX8_TduIrGhRWb2rSkbchEIIfWI0H-r2yyUZPLg",
+               "width" : 945
+            }
+         ],
+         "place_id" : "ChIJKcinQFXxaS4RFUdJXOSVpLk",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAUIYEJGQXeQ9HJfQWIueChgxafpbH0fZvVLbLoyP9TbV5ZCUGUWee_qiyhZaDz71Qc-wUhgC8H8hlfYmEUwfduDaeVsHKcSL3Zuh7927W59Mda8yLcvx5P0SMDzwynccREhDZ-35DDi2y6uOAgSvYHOi0GhRWiOulmk6pU7C53XMOERGTwHM1Mg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Warung Buncit Raya No.15, Jl. Warung Jati Bar. No.8, RT.10/RW.5, Kalibata, Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12740, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2713625,
+               "lng" : 106.8301789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.270667800000001,
+                  "lng" : 106.83087595
+               },
+               "southwest" : {
+                  "lat" : -6.2721874,
+                  "lng" : 106.82994655
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "932845952383325be53b4050acda06caa49c648b",
+         "name" : "Rumah Sakit Jakarta Medical Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108508647651760926158/photos\"\u003eNusantara Putra Rizky\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANoqDI_OoIZjK6Vp4GQWvQ9AOUVuMmk-h3LfaSSQCi-NGsgazXfHjbKErT5GR_B3v-CggZ50427SqnhaTG7vcEZ8SxPCihaaURl2taip_G6WdKfOrA6rKxCoscXZjipHf5hhW4tf14HY5gCOO5vCY8EDBxlc1O5jaGz9uwKfgYSQEhCMohR9eauxmz2cfjhFdFQ1GhTNw-4S0hy0y7TyQAU_Df5X1KE_bg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJrwvQchnyaS4RelwtOrbP0Fw",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAnfjxWNMfbwBjZswx2e7uNfJxZY0n5bjzCDR8OqEGMjk1kYUwZkeblrYDqwlV7PwL_X_CUS2KPaoaQyF_Gs4sAfzQznmX9b8QBMMAl0mqueD3sWhkGK-RsUe82aHjTiUpEhAlKbPn0KOt0qTxGrww9ZFKGhSXSa2S5O36hscK-pvSmdX9z_Iq1Q",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Letjen M.T. Haryono Kav. 13 No. 8, Tebet Barat, Tebet, RT.11/RW.5, Tebet Barat, RT.12/RW.5, Tebet Bar., Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 15810, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.242699500000001,
+               "lng" : 106.8502
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "37eb2bfc9276c34cc23c95a30f31ab73087b1e07",
+         "name" : "Rumah Sakit Tebet",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105818804002837786071/photos\"\u003eAkhmad Fauzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK2tjLYEUBDgBwYt14lGjO82dCqcR8WL_yQsurAqy1vxMh8CHBtOOLrtgzZC_dNytl3JubXo3SKctP-4QR6VGFQ_vqmcj0U2aY9Oe9RSY46lwfihZsG-4xgdkvXSvIH98eUdpT0g5N2rntzx2FaQD656DxCrkVyEpb-31qCes8KzEhDJOJ1CjatpR500ElIPxxF5GhQ0HVEItDCFqrcX1S-lc875B91mNw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTVK2grvzaS4RzxxApiPzoGI",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAA5dv0eWjR_8rg98jCx8fa87pEc9zhy0ycsjpsfpA8EhIh1fILYVpiEP6XKCyvAkiW77GTPlOvL-yxOtG4siUJ070P9Xg1b3I764i0c6uYI8kzUPIHR05h4bRmZ0hHdU1LEhDRjoStGrWp0BBeTcmabjXXGhQUD6YEeLDxwtpHxNOXL7PLHyD5UA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Lebak Bulus I Kav. 29, Cilandak, RT.6/RW.4, Cilandak Bar., Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.298617900000001,
+               "lng" : 106.7858507
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1524a827855c2ba48b9fc30609c2cbef23fbdc8e",
+         "name" : "Mayapada Hospital Jakarta Selatan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2467,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100851487058976399628/photos\"\u003eAndy Priyantoko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJzAW3dG2e0KusFArmu_v3amU0uDouN5DrKBR2WQl-vZrClmJ3UjfmIe-zFHcdFZFk1Wsjui-xPG7gCP_eb7tJoS2J4fMWvQMWUgUK5OKPBpIA1g5a5o1Hl5RURM8Sz-oY6-vxIduQDHnJlok5pdDbujtSTxgFoNmL2nKbwqklemEhCsEXUgAJt_qJa4DoW9UZdtGhQINJyRqX2DR6dbl4OarI8PI7wzjA",
+               "width" : 4357
+            }
+         ],
+         "place_id" : "ChIJjdj0BtnxaS4REiJLGFpXwDM",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAMIBdp9u6fulgQ_U16A0q9H9YfN47t-zcLSrRUUo0KCTyaR91TLNT294MzIHNXmZk4uO5u8F_NlTsa8o4wh1FesliI3NrcNyvZR3kmXpKuSk9JHDX3QsR8i4us-Xo41jeEhDNeecaPqOkxB9CLgFw4jgoGhSDucc4NHFArQRM3mefDhBsSdFxGg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Raya Cilandak KKO, Pasar Minggu, RT.3/RW.5, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.304895999999999,
+               "lng" : 106.8107131
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "09943644605d5d8e984dcfe9cfb54fa23fabf86d",
+         "name" : "Rumah Sakit Marinir Cilandak",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112259175567127064104/photos\"\u003eNandha Gustian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKo_eXWd7ArMnrzQiEItuMVdaahLJT3ia9mJETkt2ieZo43NIq0kNO9Memkx5MIHxaZrmU67S0DatSUWs5BNnlYoS6lX9KHjknrKG6viuUB67QprBelme1Tz-aSA8pQA6JyvxJN9eCaAK2tSX3Dbneqdm7ERd7-_AOaa82ak29hREhCBh--B97fAZNS4NEhTX1g5GhRK59t66GTqwF4Hk_WEY1hos6VhFw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJTdQwdATuaS4RdS-Jwe95AQg",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAtMgro5n5832h_y0UHGDv-d4AaaOouGZ2T7P1h6gDq-ORWmlnpbJEufdF2_6P66oWcKRyVSI5AohJ2H9JeM16XULJXrmmw5LSXtHvA_i6dXobZCjOuVln0UuxI8vA3N_EEhAyzXctmKq9bnh471ucz7teGhRetC2VgD6aUjyb45Bbsz_PklNauQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Duren Tiga Raya No.5, RT.1/RW.1, Pancoran, RT.1/RW.1, Pancoran, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2532785,
+               "lng" : 106.8410701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.25314355,
+                  "lng" : 106.84135315
+               },
+               "southwest" : {
+                  "lat" : -6.25368335,
+                  "lng" : 106.84097575
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "537837daeef89e6f1170f9d3d1a3c2457da8257f",
+         "name" : "Rumah Sakit Bersalin Duren Tiga",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101863074999601733923/photos\"\u003eAuliya Husin Shahab\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAA_S118BhASIHJYIP8W8sphgG3M6PhHLnWuhj8JntlGQ3s6RDqoiUUIYh05Kt632KMS57VXfSG7xRaKeueyghWligqw5OrG7HrWSP47RrC2o8E4k4jJFRQXpCc7BiHOrDnT-Z3LIYHmDl8f_lANVLWC6NdmEIwZC54QNqmFmAzzxEhCKP5l_8SwJYStbIkvyVyQZGhT_8rtg0hWkyeRF5Qv58xZsnZSq1Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJBTPHDsrzaS4ROTtsqneuMXQ",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAHmHjDsOmGFD9NaQtxDPNeslVYYzvGeVSFjip6wa1tj7nqiiiIeXtyfQETLt3cO9hnugfgKG_ulFwrcM7sT1eNXywKZzuG9Lm06Y9FdMrsPeCoKAv7nde3H2QvG0i8Ni1EhAvBby9L2rrbry1EELtSilhGhQWwM3R0HCwohscw25i0r0BwX4EIA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Duren Tiga No.20, RT.4 / RW.1, Duren Tiga, Pancoran, Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.254515599999999,
+               "lng" : 106.8323161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.253834149999999,
+                  "lng" : 106.83236765
+               },
+               "southwest" : {
+                  "lat" : -6.254742749999998,
+                  "lng" : 106.83216145
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "8aea43e12924c0f3862c9c3a6e03c425e4f28cbf",
+         "name" : "Rumah Sakit Asri",
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108476940032588618729/photos\"\u003eWijaya Yiyin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAALY3iMC9_MBXPj6kqGk7TAPxHdgH_I_EkfFcoNUJzIlGIjeICLsirEt1SRHME80qhDnbsuaN4nY_Ftn251g5_GPdubiwsVAm2TPXYowqbf0uo_1nPWWjsho6-CLiSR6-tBUAxm5HTbYXDMs_OOPg9KoWXBojfcaMWUWjuWR6m-27EhCaRZ7id3VbMKDII12DkTMsGhT6oNYN-JAHXu4_-krzzJMpF0RhPQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJV_ucls3zaS4RMxhCHumvTV8",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA74a9jUmB-m6EE2KxQifqF9XImrJdoC_AHnZFuaASvHPzdAy10tixV_v19rIJQuZpRraHVe4rTIpwg4ihQ9PAyPLBxzP21zC1sjCbYFOT3kWJBIpHvcdlB8piLxoUhHfoEhC5ZE4FkRcPsgW4k_pHLux7GhQqoLT3ZYKpBvcndQhWZu96BnibGQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Kyai Maja No.43, RT.4/RW.8, Gunung, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12120, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.240007100000001,
+               "lng" : 106.793425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.238196899999999,
+                  "lng" : 106.79400195
+               },
+               "southwest" : {
+                  "lat" : -6.240610500000002,
+                  "lng" : 106.79169415
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f0a47d00d2f0768cb500d9a99751d34da545c5ce",
+         "name" : "RS Pusat Pertamina",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1335,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100468094178406262446/photos\"\u003eRS Pusat Pertamina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAE-Qxlymb2XCz0MAbdXHiOLUXxP8fQzyfRl59EzYyg84xIltDhTEPJkEh5-hIl6wzDV6VN9WSA2frb8VNv8MDJfIce_Jicx0TbANpuHctybLYKzap20Ld4NYUIloqjy_EZk_Oano7loIkzYk-h7brVAOe-7UQAWKiagsEyQ5knPAEhBjA49GDeXGWCcbwt1MkU2FGhQh0tMiOyrfcGPiFu2E_MtRcltE6A",
+               "width" : 1336
+            }
+         ],
+         "place_id" : "ChIJbxPSSxXxaS4RBPKLUsyhd34",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAhZ5xl-mDVfB0rLp4uKfwV5ircuCESRJbuJrpoewniqC1xbhz3ZABhs_zFZWRpqnbNo3KUtGTfUsUDLHMtq22Os2fW1c7Yc_5ZCSHZCN4qIjQyi_92jlT5tDrfI3Mj1cFEhA0icT5PKbIVWJ-NhTBtXUcGhTh5D3NX-zBXicz_k5mTtG9DcPHCQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Raya Pasar Minggu No.3A Pancoran, RT.4/RW.1, Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.251017900000001,
+               "lng" : 106.8423052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.250695250000001,
+                  "lng" : 106.8427972
+               },
+               "southwest" : {
+                  "lat" : -6.251125450000001,
+                  "lng" : 106.8421412
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4cf68078f547ffc891728bfa72d34f2ebf4f4239",
+         "name" : "RS-Tria Dipa",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105818804002837786071/photos\"\u003eAkhmad Fauzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAANwbcsAuD-OmQ-2qV3hEhygdOyyrgtTYB40oEbP5N-Dq4Qe_ExBtzKLOvwdAtHSaJ3x2JR-3KocxQtkpnQ6-6IBVEfaPVH5uucvv6xLNyV8lKHhyC_nUWxjMrX_epEdw6fvI2jxEcSUDIPfvQrnsvTEhZG6haY8R-4JYqvHMQ0KbEhBZQeQCY2f461xg5CQvRB1UGhSIjpIGYYCrdrDQvytN2qYTxjSyeA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJbatNN7bzaS4RfVTeN5WgAA4",
+         "rating" : 3.4,
+         "reference" : "CmRRAAAAMgNiDw7-zxxTdW6eceRuThQ9WpOncnTtu0aW0gUWbxrn2qYaMU6T7icPjRLFJuzgKpJzcmA-vVU1rhHUrlGXfwbHBKvsUW3TeXFiv90AmYXVPsDb7XL6uNM2y89aXksUEhAZiThAw8oOBCnYgYMutjsyGhQ6osGPQJ477j4xim72SVzEvviiRQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Siaga Raya Kav.4 - 8, Jl. Siaga Raya, RT.14/RW.3, Pejaten Bar., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.272876399999999,
+               "lng" : 106.8391764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.272313100000001,
+                  "lng" : 106.8392557
+               },
+               "southwest" : {
+                  "lat" : -6.2735115,
+                  "lng" : 106.8389937
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "887ef1d1cc8f1cf25ecc1672b66f7b78dc4a343d",
+         "name" : "Rumah Sakit Siaga Raya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1092,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116251223456242406050/photos\"\u003eRumah Sakit Siaga Raya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD8qqcTO7cjliDE9AeWOBDOQ3j-2C9b_PDcQxR8bHAZuEiVVLCThFYGMOJZzYIKKvdB0QpCwrayodkohDVvbtHf1MqVP8HtVvPm15upC6t5edFgsfitIcSG6A-mbTRqZZpT7-cvg9SkSw9KwdkysE0IBFLR5Shv3RIugd2epj1ieEhBJQzYebabcWQEtHpCO4atdGhRUi0YCsUpg6Bm9ftiELbtieOjOow",
+               "width" : 1092
+            }
+         ],
+         "place_id" : "ChIJQ3_BKTnyaS4Rhd8yof-UI2c",
+         "rating" : 4,
+         "reference" : "CmRRAAAAefg6hoWiGyxOiiQfhjJk4SCpE82571AWHPlBMQk2og00VidM6l49WKotWHUUrVCP4Ay-fqdpuutNTziRMytgQ9LJP40u7ROc_03cQzMkug5AWBFpif2n9JtWH444HARoEhCzmmVjfDPyzAhOr3xSWiZ3GhSaOch-g7UHkRYUvvdyt-FZxA8VAA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Gandaria Tengah II No. 6-12, Kramat Pela, Kebayoran Baru, RT.6/RW.1, Kramat Pela, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2439824,
+               "lng" : 106.7906152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.2436718,
+                  "lng" : 106.7915509
+               },
+               "southwest" : {
+                  "lat" : -6.2443678,
+                  "lng" : 106.7901733
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "3e8ba22c7a7684a6857130daa9c671ca61084da4",
+         "name" : "Rumah Sakit Gandaria",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112561639563324375788/photos\"\u003eSulistiono Sulis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAtH_Mml-iFe63_iG83ttpkBRUcaZIebwOhhibjd_MlK8BFrqbo-hFUVSg0pGtlHUpAlLnFcR9LZOkPLGMR8XX9kOxHgDmVQ6cri8NMn6Ck1NsDjgrIApNNlmjtZTvYh3OskHxGoQUML9723zh4y94S69PZlXMWtL_4DvWhyejeYEhA0jHqh7bdaCInmz4rDrcmuGhQyUGrG2GO_LE-9UhN2jSI2iwN3fw",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJTfNuiBPxaS4RjITwwJ1SEAk",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAHG-c28mLsQLK4ktvVJcZA2t6YXMCEtwWdpy0Ch5_VXkQsdJ37nfDlc6LI8vLYZFjRrHL1MmeXWRlmu10iAQhG89R_GGbimH9FiJ6xJrZEnMrudzc5DjfR6S3ZUXNajuCEhB911unx7TKQrvCLrPJ25GZGhRK8PD7LRU569ehC7vDgqOvJ2IISw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Panglima Polim 1 No.34, Melawai, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2479678,
+               "lng" : 106.8010413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.247429100000002,
+                  "lng" : 106.8017636
+               },
+               "southwest" : {
+                  "lat" : -6.248390299999999,
+                  "lng" : 106.8002836
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1929333f06118528501f4e1252f8cb54e2aac2d9",
+         "name" : "Rumah Sakit Ibu dan Anak ASIH",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115537219912930821593/photos\"\u003eexao original\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAKbsVW82TcxOaeLtijU7nWFaXe9uoHYhkpwyO5LIJVL_z7gwf5NkvhJG5E_7NM6-Em1PEGEX4xE4Uc7kiXCSQwJUxqbSshAs79vog1oB0b07xmP7HGo11KWJ5bUR8OzbTK4z16cqYQg5pEzWc8F5VQ_RT8Xh56oyxXHcPx5BvTCEhAmY9Dauv2miq9pj39I2yK8GhQGrMi0wBtU1xwiaZ-QR4dP7HbI2A",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ125nGm7xaS4RQu-OZjfnHnc",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAux6oJODBJlg0XpWbPyILMAy7YgiWjxRtrXPk3tfHGMoRx08WE3l_q1a1smmkFfmnSdK14LORFu16GD4iY3xT4Td6yGfxBf6x6dWqq4gTh9CLkG5BoaQnbPsp8hQXkAOyEhACQ4VTwiWAPrc_Vkz9wytqGhS32BJde_CmjckadjLFZjKHTutvWA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. HR Rasuna Said Kav. C 20-21, Karet Kuningan, Setiabudi, RT.1/RW.5, Karet Kuningan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12940, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2199738,
+               "lng" : 106.8323095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.21983095,
+                  "lng" : 106.83314865
+               },
+               "southwest" : {
+                  "lat" : -6.22040235,
+                  "lng" : 106.83162045
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a6a826a9bcf2490a491d30b47612169192c957de",
+         "name" : "Rumah Sakit Metropolitan Medical Centre (RS.MMC)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118081436324648689337/photos\"\u003eCarlos M ツ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAD4Ux4cdMxcFE6E4DMb0ZG-eUAB2HDR7OIpiaO0G06-oMcBPfTJgSvl-ELWNqm9VmwOVIY0O-gn7kcleNqjTTy6gEEXzom81sYhQAcwjeMJ-Rl9-bTO4sXsuNwQXrkkGCpGYFD_SGtCxW8iO3OHNlM3-7FRQuv2N42xDnBLM3mnGEhCoZzIQzGAOtJKSwELBqxiKGhT49rxbIYeAwi8g7HAkt8Kcbx2coA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJW1bSHe_zaS4RF5b19DQOJpI",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAAQZu7pn5G-IZx0sVijGpuXjXbpzU0ufXwtN-dBM3nr5vCAydlUw-W8DaL25fgoGmE2BQsenNXnlyEyG_2ZkJ3qkWb50uWjV3cvG2WmpJ-7xKP2ie7twDWw4TmhnSjTutMEhBtOyk7N4Hs6IgN5WxdikkFGhSCdQLJ9QxuXmQwPHB1sY9km11YUw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Fatmawati No.80-82, RT.3/RW.10, Cilandak Bar., Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.281098699999999,
+               "lng" : 106.7959165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.281057649999999,
+                  "lng" : 106.7963824
+               },
+               "southwest" : {
+                  "lat" : -6.28122185,
+                  "lng" : 106.7957612
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "a35a64326684d24ea705a5ab37ccb865c41e658e",
+         "name" : "RS. Setia Mitra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100851487058976399628/photos\"\u003eAndy Priyantoko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAOg0bI6gHo2aQbsiEGR0maCSqltppNKERlLLRoDU8b1qM593lPzWNPRHB65Lfx8qgNF8mMacWvIy-HZKmYsmjx00XK3X3E2_-dfH02CrQ5A2KKWLZL5gsmSQHE1cbgxu6pJhqgAoT4Z_XKTujErpJQQ1_XykeDPfJ7vXU6lKuzX4EhD8Rr2GiQQKsD2zkEarZpnmGhRollybN2GJxw4hXcQHrqs63eRfiA",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJk2iI8urxaS4RSEVDT6ODy4w",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAc-JEGym8aNz7MSMhkpx30LoED7PWJLFuEE5NVaEl_Ceb94JaMfui6XzHZ8oxULs2MhJxEdqpGIgxcYREuEd6sXOIvByyAvHBJuBr8QVjdi657soOdjmYKcwoRYgjVQStEhBUp1NZUNY5LvGIuC8HjzNnGhSiCgIKLEFKK4ee2UQkUS0gwDRaPQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Birah I No.26, RT.5/RW.6, Rw. Bar., Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12180, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.236490600000001,
+               "lng" : 106.815925
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.236120549999999,
+                  "lng" : 106.8161605
+               },
+               "southwest" : {
+                  "lat" : -6.236613950000002,
+                  "lng" : 106.8154709
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "9c32ec6ddc44d29759ce1cc1e028aca3ac317eff",
+         "name" : "Rumah Sakit Bersalin Panti Nugraha",
+         "place_id" : "ChIJBba3pV_xaS4Rnmi15wOl6n4",
+         "reference" : "CmRRAAAAXP70tUrqtL8COuRJ1TZnddunADszX6wpvxrNTplzqjmNWP8_IHzH3jlutpdrMMeEOu5hf1ijFLEQ_B2oJVpl4Knfq8Us9-Bg3jWeniN6R8vQEtUGeTUbTDWflzDl8WgbEhD6vqXlYDRZGHz7Pd2dC4IqGhTeYOjIUHs0_nRxGO9kEmYmPOPXDg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Warung Silah No. 8, RT.6/RW.4, Ciganjur, Jagakarsa, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12630, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.344373800000001,
+               "lng" : 106.8142482
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.3443328,
+                  "lng" : 106.81426595
+               },
+               "southwest" : {
+                  "lat" : -6.344496799999998,
+                  "lng" : 106.81419495
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6283c13e1c4204d4586fdf6543ac04f74b0b2cdb",
+         "name" : "Rumah Sakit Ibu Dan Anak Andhika",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108121739737330100675/photos\"\u003eTodo Sibuea\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAK3ylq5fpHSednfzenfgA-vSnKX2XrL1lGlijg-KYTpPL_DetURRndSzaYZJFIVrC_4ERriDp7QcDwUSLAtxAP6qfnQ_-m--VtjgK-7A67lxxN1CxtGgZ01XH_H0RtbvzT7QrnCR6Z643zeCELJOt1iwVR5C-U5fii3LrysSYdFNEhAS0tDGrz1RhJZRo8Ns6xtPGhQMYKBHOGmtwVVU3KjvAO177LHYgQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJB1kPcoHuaS4RafG_yaRi_1w",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAFpBzBEMF-ht962hqPjiFZhBPLz-REJONNwG_acTlYebIr9t8eUj5wKsrhoHH30SYqguKfcmQBETdmrpFTQQSUevSuEUX07fbzeaquQb6H8gK5snRwN3jNSMOhfL9wkpVEhAbJ9ZHinxwqUbqqKo84E22GhS-5aLt64dJ628CdKMmD_BPFNaLjg",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jalan Metro Duta Kavling UE, Pondok Indah, Pondok Pinang, Kebayoran Lama, Jakarta Selatan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12310, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2837749,
+               "lng" : 106.7814687
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "35c12efacbee5d1e770eefd66aee1d1796bc713b",
+         "name" : "Rumah Sakit Pondok Indah",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105120350987806042675/photos\"\u003eユン白菜漬け\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAMHxp2TyEDx8_y0btJEaPt7kkNBEKq0ZGQ33aNiJWPL5xDS93eirjGsIleMeQ76ug_hWBiChqPxIcKzrldDLkxrtqUjNRnupMx_c_gXvMELROC7_BL-PYNA7d15555NRDtSjHD7sTCUBmO8x3wISf10MkIYXR9eV6-PSYli1VT82EhC4P2Dykwn7DWp3uZ71gN59GhQg7gs1TtWJgMv6xrZv21SrmeE14w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ08OpJffzaS4Rga6HDoNS2oM",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAApf7hJtN2e4s-fSZVpEPhAwi4RiWCcq1G8PUyUMu528LPm-fgQ32EIgwhATft8tBOfNliUF14pxorrnu6QAXpuvPVYULLuR-Pe6yezTN8r__q41LJ8_9nYDdSL7qtKapJEhC9A8NEWytQLdgs9bvYQRjyGhTUzKo25yJ5lao06rewtzPDJEMxhw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Jend. Gatot Subroto Kav. 59, RT.1/RW.4, Kuningan Timur, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2398127,
+               "lng" : 106.8336602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.23965715,
+                  "lng" : 106.8338203
+               },
+               "southwest" : {
+                  "lat" : -6.24027935,
+                  "lng" : 106.8331799
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "6cdc2d8473f44452921ea30989946fb3e8d9930b",
+         "name" : "RS Medistra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110968852278455827740/photos\"\u003eGisella Thiofanny\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHZ0O5zymrZL54DQdMEPY4eUGVbrH5LBKfS03komhPnIW-oMufrRS0tlvTvJlR_k6wRTdOtbSbLp6YnwXolOVzRkUO8GtZ7HZ-UKX0IAnvn6aZ62qB9Sa9KfB3F9VEqwhKFHAvwy8ppBgduA4l4kT2CNC-Go7hzEotu7dn0HKryXEhBNT1D_zhk0eQNdhlPrI3fXGhRXbT2EzHEZlbHehnNsa_C8A8UWxA",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJwfF-TMLzaS4RV5vd5O8RLK8",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAA_hZ_3C62-Vo_fDYsZh8CJg-C4H6D7tN81-SYD3RJtLiLc6IF905UdtdJkcMOUiWe0zjjlTLgqY6KjXuv6wX9nAEiSpFs7Qo6tnQhLF2LJNv-AaUPLDxNNPdTfFq8z-JeEhBwnPfq-A-5fIL_iiGVf4ZoGhTZWx1--F3GPfOz7Q70h1UZWqfHRw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. RS Fatmawati No.74, Pd. Labu, Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12450, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.314710899999999,
+               "lng" : 106.7937834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.314637050000001,
+                  "lng" : 106.79391215
+               },
+               "southwest" : {
+                  "lat" : -6.314737649999999,
+                  "lng" : 106.79339715
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e610f08cfd239a62554cdc797e078ccb8be4a6a9",
+         "name" : "Rumah Sakit Prikasih",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 527,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104683166647126214269/photos\"\u003eRS Prikasih\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAANmWm-tkwJdHhKoQpaymIw-YG4VpHaW4FjrMZS1sLk2UAAgfrq7uA0nvUO63yK3cSNzfHDW9jxuIZ3JoByctHQB8IdLgvfcz-2JRnVXPilVirwSoz_sbi7OUeko6D0UXr_8ZGF4qGzXbAMmn8gqRbIjfE4hpSBblHqu6yI1FtUTxEhA0U-4THObHXDJhj_1jFQ5uGhTEGeZiUrCgsn8208fwNSCfueMwWg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJVZySiz3uaS4R4AwZqO_haFM",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAv2HB0AwgdcH_kmequ_i__MjFvzWH8DbvvdY924fMi-pTNcIjI6hQIgjwBwvFNnRS8C5R_FQ8Iw46c5sQqfPJWjIBngfoMvjwzoHLdz8Mv7xvYxf1Dxs5oKN4-fhi2yXiEhA_zyDorsbrCtYx_6KYOrXjGhTdzs5M9MzXbgKGqNvRqdGW3kIQ9Q",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "JL Garnisun Dalam, No. 2-3, Semanggi, RT.5/RW.4, Karet Semanggi, Jakarta Pusat, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.219003399999999,
+               "lng" : 106.8171809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.218124049999997,
+                  "lng" : 106.8175272
+               },
+               "southwest" : {
+                  "lat" : -6.220009849999999,
+                  "lng" : 106.816832
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "150dba2d4bea0feb14c851e57774329088d9c6c6",
+         "name" : "MRCCC Siloam Hospitals Semanggi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105412281916771797649/photos\"\u003enizar kauzar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJyGIa_Unbgz41qZZRSmNo9hpDA08NeNqagdtcD4izT69fSSctiFnH44ULYefKRbIQHaw8vU2Rp9v1TyTLcIlF55N2Kx3RYpYHRBa-vBMOD1prb848I83Gfw2a6ITGoO78Gp_bZJa8hzEKhBHPQF5x2_jOpyC_AaKndpNYADgjbQEhBkEPdKCQh8fOUp1dF3rqudGhQQpg5JTK5zxOc5B4WF6pYwo2OpPg",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ8XH8CFXxaS4RRsMXuPZvjFA",
+         "rating" : 3.9,
+         "reference" : "CmRRAAAAF5xmMdkGTUR279unu8EImddmcVlQPsKVnji1NqF-5FD1KsGFuocIYSrO-ZbObbRDr0F3ld7gygDXLXDlNI4bbp5CVyTEOFcyvqQLT5GaLVw0oi_45pqh3_fDMRO5QGf3EhCK4VIo1Hx9mtfODaOZMX6CGhQhxontmKfwb9QODhCA7uQNqr3ShA",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+]
