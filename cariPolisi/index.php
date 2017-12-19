@@ -118,7 +118,7 @@
         var startLong;
         var map;
         var tmp;
-        var radius = 4;
+        var radius = 7;
         function initAutocomplete() {
             map = new google.maps.Map(document.getElementById('map'), {
                 center: {lat: -6.4025, lng: 106.7942},
@@ -297,17 +297,17 @@
                 deleteMarkers();
                 markers = [];                
                 var count = 0;
-                $.getJSON("data.json", function (json) {
+                $.getJSON("polisi.json", function (json) {
                     var i = 0;
                     for (var key in json) {
                         if (json.hasOwnProperty(key)) {
                             var icons = 'assets/hsp64.png';
-                            var geoLat = json[key].geometry.location.lat;
-                            var geoLng = json[key].geometry.location.lng;
+                            var geoLat = json[key].geometry.lat;
+                            var geoLng = json[key].geometry.lng;
                             var distance = Math.round(getDistance(geoLat, geoLng, startLat, startLong)).toFixed(2);                            
                             var content =
-                            "<div style='width:280px;'><h4>" + json[key].name + "</h4>\n\
-                            <p>" + json[key].formatted_address + "</p><p style='text-align:center;color:grey'><h3 style='text-align:center;margin-top:-10px'>+- "+distance+" km</h3><p style='text-align:center'><button class='btn btn-primary' onclick='directionFunction(" + geoLat + "," + geoLng + ")'>Direction</button></p>";
+                            "<div style='width:280px;'><h4>" + json[key].properties.name + "</h4>\n\
+                            <p>" + json[key].properties.description + "</p><p style='text-align:center;color:grey'><h3 style='text-align:center;margin-top:-10px'>+- "+distance+" km</h3><p style='text-align:center'><button class='btn btn-primary' onclick='directionFunction(" + geoLat + "," + geoLng + ")'>Direction</button></p>";
 
                             var infowindow = new google.maps.InfoWindow()
                             infowindow.open();                            
