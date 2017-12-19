@@ -118,7 +118,7 @@
         var startLong;
         var map;
         var tmp;
-        var radius = 7;
+        var radius = 4;
         function initAutocomplete() {
             map = new google.maps.Map(document.getElementById('map'), {
                 center: {lat: -6.4025, lng: 106.7942},
@@ -314,7 +314,7 @@
                             if (distance < radius) {
                                 var marker = new google.maps.Marker({
                                     map: map,
-                                    position: new google.maps.LatLng(json[key].geometry.location.lat, json[key].geometry.location.lng),
+                                    position: new google.maps.LatLng(json[key].geometry.lat, json[key].geometry.lng),
                                     icon: icons,
                                 });
                                 markers.push(marker);
