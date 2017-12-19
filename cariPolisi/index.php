@@ -306,7 +306,7 @@
                             var geoLng = json[key].geometry.lng;
                             var distance = Math.round(getDistance(geoLat, geoLng, startLat, startLong)).toFixed(2);                            
                             var content =
-                            "<div style='width:280px;'><h4>" + json[key].properties.name + "</h4>\n\
+                            "<div style='width:280px;'><h4>" + json[key].properties.Name + "</h4>\n\
                             <p>" + json[key].properties.description + "</p><p style='text-align:center;color:grey'><h3 style='text-align:center;margin-top:-10px'>+- "+distance+" km</h3><p style='text-align:center'><button class='btn btn-primary' onclick='directionFunction(" + geoLat + "," + geoLng + ")'>Direction</button></p>";
 
                             var infowindow = new google.maps.InfoWindow()
@@ -329,9 +329,9 @@
                         }
                     }
                     if (count < 1) {
-                        alert("Tidak Ditemukan Rumah Sakit atau Puskesmas Terdekat");
+                        alert("Tidak Ditemukan Kantor Polisi Terdekat");
                     } else {
-                        alert("Ditemukan " + count + " Fasilitas Kesehatan di Sekitar Anda")
+                        alert("Ditemukan " + count + " Kantor Polisi di Sekitar Anda")
                     }                    
                 });
                 deleteMarkers();
