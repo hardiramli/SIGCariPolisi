@@ -27,7 +27,7 @@
             border-radius: 2px 0 0 2px;
             box-sizing: border-box;
             -moz-box-sizing: border-box;
-            height: 40px;
+            
             outline: none;
             box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
         }
@@ -40,7 +40,12 @@
             margin-left: 30px;
             padding: 0 11px 0 13px;
             text-overflow: ellipsis;
-            width: 300px;
+            width: 250px;
+            height: 30px;
+        }
+        
+        #pac-input:hover {
+        	height: 50px;
         }
 
         #pac-input:focus {
@@ -79,10 +84,10 @@
             <div class="container-fluid">
                 <div class="navbar-header col-md-12">
                     <div class="col-md-4">
-                        <label style="font-size:30px"><a href="index.php"><img src="assets/medikuLogo.png" style="height: 40px"/>  CariPolisi<br></a> </label>                            
+                        <label style="font-size:30px"><a href="index.php"><img src="assets/logo2.png" style="height: 40px"/>  CariPolisi<br></a> </label>                            
                     </div>
                     <div class="col-md-4" style="text-align: center;">   
-                        <button class='btn-info' onclick='toClosest()'>Panic Button</button>
+                        <button class='btn-danger' onclick='toClosest()'>Panic Button</button>
                     </div>                       
 					
                     <div class="col-md-4" id="kanan">
@@ -138,7 +143,7 @@
                     global = position;
                     startLat = position.coords.latitude;
                     startLong = position.coords.longitude;
-                    var icons = 'assets/loc64.png';
+                    var icons = 'assets/pin64n.png';
                     infoWindow.setPosition(pos);
                     infoWindow.setContent('Your Location');
                     map.setCenter(pos);
@@ -224,9 +229,10 @@
             }
 
             function directionFunction(lat, long) {
-                var iconstart = 'assets/loc64.png';
-                var iconfinish = 'assets/hsp64.png';
+                var iconstart = 'assets/pin64n.png';
+                var iconfinish = 'assets/police.png';
                 var infoWindow = new google.maps.InfoWindow({map: map});
+
                 var pointA = new google.maps.LatLng(startLat, startLong),
                 pointB = new google.maps.LatLng(lat, long),
                 myOptions = {
@@ -321,7 +327,7 @@
                     var i = 0;
                     for (var key in json) {
                         if (json.hasOwnProperty(key)) {
-                            var icons = 'assets/hsp64.png';
+                            var icons = 'assets/police.png';
                             var geoLat = json[key].geometry.lat;
                             var geoLng = json[key].geometry.lng;
                             var distance = Math.round(getDistance(geoLat, geoLng, startLat, startLong)).toFixed(2);                            
