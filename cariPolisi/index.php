@@ -331,7 +331,7 @@
 
                             var infowindow = new google.maps.InfoWindow()
                             infowindow.open();                            
-                            //if (distance < radius) {
+                            if (distance < radius) {
                                 var marker = new google.maps.Marker({
                                     map: map,
                                     position: new google.maps.LatLng(json[key].geometry.lat, json[key].geometry.lng),
@@ -345,7 +345,7 @@
                                         infowindow.open(map, marker);
                                     };
                                 })(marker, content, infowindow));
-                            //}
+                            }
                         }
                     }
                     if (count < 1) {
