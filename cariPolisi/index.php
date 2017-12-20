@@ -82,10 +82,11 @@
                         <label style="font-size:30px"><a href="index.php"><img src="assets/medikuLogo.png" style="height: 40px"/>  CariPolisi<br></a> </label>                            
                     </div>
                     <div class="col-md-4" style="text-align: center;">   
-                        <button class='btn-info' onclick='getData()'>Cari di Sekitar Saya</button>
+                        <button class='btn-info' onclick='toClosest()'>Panic Button</button>
                     </div>                       
+					
                     <div class="col-md-4" id="kanan">
-                        <label style="color:white;">Tugas Akhir SIG People Power</label>                       
+                        <button class='btn-info' onclick='getData()'>Cari Disekitar Saya</button>                      
                     </div>
 
                 </div>
@@ -292,6 +293,25 @@
                 x.style.visibility = "visible";
                 y.style.visibility = "visible";
             }
+			
+			function toClosest(){
+				deleteMarkers();
+				$.getJSON("polisi.json", function (json){
+					var i = 0;
+					var tempDis = getDistance(json[0].geometry.lat, json[0].geometry.lng, startLat,startLong);
+					var geoLat = 0;
+					var geoLng = 0;
+					for (var key in json){
+						 var distance = getDistance(json[key].geometry.lat, json[key].geometry.lng, startLat,startLong);
+						 if (distance < tempDis){
+							 tempDis = distance;
+							 geoLat = json[key].geometry.lat;
+							 geoLng = json[key].geometry.lng;
+						 }
+					}
+					directionFunction(geoLat,geoLng);
+				});
+			}
 
             function getData() {
                 deleteMarkers();
@@ -311,7 +331,7 @@
 
                             var infowindow = new google.maps.InfoWindow()
                             infowindow.open();                            
-                            if (distance < radius) {
+                            //if (distance < radius) {
                                 var marker = new google.maps.Marker({
                                     map: map,
                                     position: new google.maps.LatLng(json[key].geometry.lat, json[key].geometry.lng),
@@ -325,7 +345,7 @@
                                         infowindow.open(map, marker);
                                     };
                                 })(marker, content, infowindow));
-                            }
+                            //}
                         }
                     }
                     if (count < 1) {
