@@ -12,6 +12,20 @@
     <link href="css/mediku2.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/main.css" />
     <style>
+		::-webkit-scrollbar {
+			width: 12px;
+		}
+		 
+		::-webkit-scrollbar-track {
+			-webkit-box-shadow: inset 0 0 2px rgba(0,0,0,0.3); 
+			border-radius: 10px;
+		}
+		 
+		::-webkit-scrollbar-thumb {
+			border-radius: 10px;
+			-webkit-box-shadow: none; 
+			background-color: #dddddd;
+		}
         #map {
             height: 100%;
         }
@@ -33,15 +47,15 @@
         }
 
         #pac-input {
-            background-color: #fff;
-            font-family: Roboto;
-            font-size: 18px;
-            font-weight: 300;
-            margin-left: 30px;
-            padding: 0 11px 0 13px;
-            text-overflow: ellipsis;
-            width: 250px;
-            height: 30px;
+			background-color: #fff;
+			font-family: Roboto;
+			font-size: 16px;
+			font-weight: 500;
+			color: #0277BD !important;
+			text-overflow: ellipsis;
+			width: 40vw;
+			height: 50px;
+			margin: 5vw 15vw;
         }
         
         #pac-input:hover {
@@ -66,10 +80,78 @@
             font-family: Roboto;
             font-size: 13px;
             font-weight: 300;
+			color: #4d90fe;
         }
+		a, a:link, a:visited {
+			color: #4d90fe;
+			text-decoration: none;
+			display: inline-block;
+		}
         #target {
             width: 345px;
         }
+		.navbar {
+			background-color: #fff !important;
+			height: 100px;
+			box-shadow: 5px 5px 5px #dddddd;
+		}
+		.btn-danger, .btn-danger:hover{
+			font-family: Roboto;
+            font-size: 14px;
+            font-weight: 500;
+			background-color: #ffce00 !Important;
+			border-radius: 0px;
+			color: #fff;
+			margin-right: 30px;
+		}
+		.btn-info, .btn-info:hover{
+			font-family: Roboto;
+            font-size: 14px;
+            font-weight: 500;
+			background-color: #B2EBF2 !important;
+			border-radius: 0px;
+			color: #fff;
+		}
+		
+		.home {
+			max-width: 90vw;
+			max-height: 80vh;
+			margin-left: 5vw;
+			margin-top: 18vh;
+		}
+		
+		#dvPanel {
+			background-color: #fff;
+			z-index: 10;
+			position: absolute;
+			right: 0;
+			top: 0;
+			float: right;
+			width: 30%;
+			overflow-y: scroll;
+			height: 100%;
+			padding: 20px;
+		}
+		.adp, .adp table {
+			font-family: roboto;
+			font-weight: 300;
+			font-size: 13px;
+			color: #2C2C2C;
+			border: none;
+		}
+		.adp-summary {
+			padding: 1em 1em;
+			text-align: center;
+			font-weight: 600;
+			font-size: 15px;
+		}
+		table tbody tr:nth-child(2n + 1) {
+			border: none;
+		}
+		img.adp-marker {
+		display:none;
+		}
+		
     </style>
 </head>
 <body>
@@ -84,13 +166,11 @@
             <div class="container-fluid">
                 <div class="navbar-header col-md-12">
                     <div class="col-md-4">
-                        <label style="font-size:30px"><a href="index.php"><img src="assets/logo2.png" style="height: 40px"/>  CariPolisi<br></a> </label>                            
-                    </div>
-                    <div class="col-md-4" style="text-align: center;">   
-                        <button class='btn-danger' onclick='toClosest()'>Panic Button</button>
-                    </div>                       
+                        <label style="font-size:30px"><a href="index.php"><img src="assets/logo2.png" style="height: 40px"/> CariPolisi<br><p style="font-family:roboto;font-size:12px;color:#333; font-weight:500;"> Sarana Pencarian Polisi Kota Depok </p></a> </label>                            
+					</div>                     
 					
-                    <div class="col-md-4" id="kanan">
+                    <div class="col-md-8" id="kanan">
+						<button class='btn-danger' onclick='toClosest()'>Panic Button</button>
                         <button class='btn-info' onclick='getData()'>Cari Disekitar Saya</button>                      
                     </div>
 
@@ -101,18 +181,16 @@
 
     </div>
     <div class="home">
-        <div class="sidebar">
+     
             <div id="search-box">
                 <input id="pac-input" class="controls" type="text" placeholder="Search Box">
             </div>
-        </div>
+      
 
         <div id="map">                
         </div>
 
-        <div id="side">                  
-            <div id="dvDistance">                    
-            </div>
+        <div id="side"> 
             <div id="dvPanel">                
             </div>                
         </div>
@@ -206,7 +284,7 @@
                         // Create a marker for each place.
                         markers.push(new google.maps.Marker({
                             map: map,
-                            icon: icon,
+                            icon: iconstart,
                             title: place.name,
                             position: place.geometry.location
                         }));
@@ -229,7 +307,7 @@
             }
 
             function directionFunction(lat, long) {
-                var iconstart = 'assets/pin64n.png';
+                var iconstart = 'assets/placeholder.png';
                 var iconfinish = 'assets/police.png';
                 var infoWindow = new google.maps.InfoWindow({map: map});
 
